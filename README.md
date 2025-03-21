@@ -3,7 +3,8 @@
 Welcome to the Timix Translations repository!  
 Your interest in helping translate Timix to make it accessible for users around the world is very much appreciated.
 
-For more details about Timix, visit the [Timix App Store page](https://apps.apple.com/app/id6477807870).
+For more details about Timix, visit the [Timix page](https://rogy.app/timix).
+Download Timix visit [App Store page](https://apps.apple.com/app/id6477807870).
 
 ---
 

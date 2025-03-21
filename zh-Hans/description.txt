@@ -1,0 +1,24 @@
+Transform the way you manage time with Timix, the ultimate cross-Apple platforms app designed to optimize your daily routine. Whether you’re working out, studying, cooking, or meditating, Timix offers powerful and customizable features across iPhone, Apple Watch, Mac, and iPad to help you stay on track and maximize productivity.
+
+Key Features:
+- Timix is on All Platforms: Seamlessly use Timix on your iPhone, Apple Watch, Mac, and iPad, ensuring your productivity tools are always within reach.
+- HealthKit Integration: Sync your workouts and fitness data directly with Apple HealthKit for a complete overview of your progress.
+- Multiple Triggers: Customize your notifications with various triggers such as speaking text, playing audio, flashing the torch, and more to stay informed in the way that suits you best.
+- Siri & Shortcuts Support: Trigger your timers hands-free with Siri and automate your tasks with custom Shortcuts, streamlining your day with just a tap or a voice command.
+- Camera Timer Recognition: Instantly capture and add timers by scanning them with your device’s camera, taking your time management to the next level.
+- Airdrop Timix Templates: Collaborate and coordinate with others by sharing and importing timer templates, making it easy to manage group activities and schedules.
+- Handoff Support: Move your timers flawlessly between your Mac and iPhone, providing a seamless transition and uninterrupted workflow across your devices.
+- Double Tap Support for Apple Watch: Start, pause your timers with a simple double-tap gesture on your Apple Watch, making time management intuitive and effortless.
+- Custom Audio Sound Import: Personalize your Timix experience by importing custom audio sounds for alerts and notifications, making each timer uniquely yours.
+- Voice Over Accessibility: Designed with inclusivity in mind, Timix features Voice Over Accessibility to ensure that everyone can navigate and use the app effortlessly.
+
+
+Why Choose Timix?
+
+Timix isn’t just about tracking time; it’s about taking control of it across all your Apple devices. With its versatile, user-friendly interface and robust feature set, Timix adapts to your lifestyle, helping you live more efficiently and effectively.
+
+Free, Ad-Free and No Tracking.
+
+Timix is an open-source project dedicated to providing an exceptional user experience and accessibility for all. Enjoy a fully-featured, ad-free app with no hidden costs.
+
+Download Timix now and discover how our app can help you master your time across all your Apple devices. Take control of your day with Timix – your ultimate time management companion.

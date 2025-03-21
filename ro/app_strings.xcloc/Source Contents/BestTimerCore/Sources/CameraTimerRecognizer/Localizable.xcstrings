@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Go to Settings" : {
+
+    },
+    "Go to Settings and allow Timix to access your camera." : {
+
+    },
+    "No Camera Access" : {
+
+    },
+    "No Timers Detected" : {
+
+    }
+  },
+  "version" : "1.0"
+}

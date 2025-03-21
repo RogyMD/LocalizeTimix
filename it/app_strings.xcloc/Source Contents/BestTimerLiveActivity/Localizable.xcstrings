@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Cancel a Timer" : {
+
+    },
+    "Countdown" : {
+
+    },
+    "Open Timix" : {
+
+    },
+    "Open Timix App" : {
+
+    },
+    "Opens Timix App in the control center." : {
+
+    },
+    "Resume or Pause a Timer" : {
+
+    },
+    "The timer will be cancelled." : {
+
+    },
+    "The timer will be put on pause or resumed." : {
+
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,24 @@
+Transforma la forma en que gestionas tu tiempo con Timix, la aplicación definitiva para todas las plataformas de Apple, diseñada para optimizar tu rutina diaria. Ya sea que estés haciendo ejercicio, estudiando, cocinando o meditando, Timix ofrece funciones poderosas y personalizables en iPhone, Apple Watch, Mac y iPad para ayudarte a mantenerte enfocado y maximizar tu productividad.
+
+Características Clave:
+- Timix en todas las plataformas: Utiliza Timix sin problemas en tu iPhone, Apple Watch, Mac y iPad, asegurando que tus herramientas de productividad siempre estén a tu alcance.
+- Integración con HealthKit: Sincroniza tus entrenamientos y datos de fitness directamente con Apple HealthKit para obtener una visión completa de tu progreso.
+- Múltiples disparadores: Personaliza tus notificaciones con varios disparadores, como voz que lee el texto, reproducción de audio, parpadeo de la linterna y más, para mantenerte informado de la forma que mejor se adapte a ti.
+- Soporte para Siri y Shortcuts: Activa tus temporizadores sin usar las manos con Siri y automatiza tus tareas con Shortcuts personalizados, simplificando tu día con un solo toque o comando de voz.
+- Reconocimiento de temporizadores por cámara: Captura y añade temporizadores al instante escaneándolos con la cámara de tu dispositivo, llevando la gestión de tu tiempo al siguiente nivel.
+- Plantillas Timix por Airdrop: Colabora y coordina con otros compartiendo e importando plantillas de temporizadores, facilitando la gestión de actividades y horarios grupales.
+- Soporte para Handoff: Transfiere tus temporizadores sin problemas entre tu Mac y iPhone, garantizando una transición fluida y un flujo de trabajo ininterrumpido en todos tus dispositivos.
+- Soporte de doble toque para Apple Watch: Inicia y pausa tus temporizadores con un simple doble toque en tu Apple Watch, haciendo que la gestión del tiempo sea intuitiva y sencilla.
+- Importación de sonidos personalizados: Personaliza tu experiencia con Timix importando sonidos de audio personalizados para alertas y notificaciones, haciendo que cada temporizador sea único.
+- Accesibilidad Voice Over: Diseñada pensando en la inclusión, Timix cuenta con Voice Over para que todos puedan navegar y utilizar la aplicación sin esfuerzo.
+- Integración con TimixGPT: Mejora tu productividad con TimixGPT, que te ayuda a configurar secuencias de temporizadores perfectas adaptadas a tus necesidades específicas.
+
+¿Por qué elegir Timix?
+
+Timix no solo se trata de seguir el tiempo; se trata de tomar el control de él en todos tus dispositivos Apple. Con su interfaz versátil y fácil de usar y su robusto conjunto de funciones, Timix se adapta a tu estilo de vida, ayudándote a vivir de manera más eficiente y efectiva.
+
+Gratis, sin anuncios y sin seguimiento.
+
+Timix es un proyecto de código abierto dedicado a ofrecer una experiencia de usuario excepcional y accesibilidad para todos. Disfruta de una aplicación completa, sin anuncios y sin costos ocultos.
+
+Descarga Timix ahora y descubre cómo nuestra aplicación puede ayudarte a dominar tu tiempo en todos tus dispositivos Apple. Toma el control de tu día con Timix: tu compañero definitivo para la gestión del tiempo.

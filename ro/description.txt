@@ -1,0 +1,24 @@
+Transformă modul în care îți gestionezi timpul cu Timix, aplicația este pentru toate platformele Apple, și proiectată pentru a-ți optimiza rutina zilnică. Indiferent dacă faci exerciții, studiezi, gătești sau meditezi, Timix oferă funcții puternice și personalizabile pe iPhone, Apple Watch, Mac și iPad pentru a te ajuta să rămâi concentrat și să-ți maximizezi productivitatea.
+
+Caracteristici principale:
+- Timix este disponibil pe toate platformele: Folosește Timix fără efort pe iPhone, Apple Watch, Mac și iPad, asigurându-te că instrumentele tale de productivitate sunt întotdeauna la îndemână.
+- Integrare HealthKit: Sincronizează antrenamentele și datele tale de fitness direct cu Apple HealthKit pentru o imagine completă a progresului tău.
+- Multiple declanșatoare: Personalizează notificările cu diverse declanșatoare, cum ar fi citirea textului, redarea audio, clipirea lanternei și altele, pentru a rămâne informat în modul care ți se potrivește cel mai bine.
+- Suport Siri și Shortcuts: Activează timerele fără mâini cu Siri și automatizează-ți sarcinile cu Shortcuts personalizate, simplificându-ți ziua cu doar o atingere sau o comandă vocală.
+- Scanează Timere cu Camera: Capturează și adaugă timere instantaneu prin scanarea lor cu camera dispozitivului, ducând gestionarea timpului la un alt nivel.
+- Template-uri Timix prin Airdrop: Colaborează și coordonează-te cu alții prin partajarea și importarea template-urilor de timere, facilitând gestionarea activităților și programelor de grup.
+- Suport Handoff: Transferă timerele fără probleme între Mac și iPhone, asigurând o tranziție fluidă și un flux de lucru neîntrerupt pe toate dispozitivele tale.
+- Suport dublu tap pentru Apple Watch: Pornește și oprește timerele cu un dublu tap simplu pe Apple Watch, făcând gestionarea timpului intuitivă și ușoară.
+- Import sunete audio personalizate: Personalizează-ți experiența cu Timix importând sunete audio personalizate pentru alerte și notificări, făcând fiecare timer unic.
+- Accesibilitate Voice Over: Conceput cu gândul la incluziune, Timix dispune de Voice Over pentru a se asigura că oricine poate naviga și utiliza aplicația fără efort.
+- Integrare TimixGPT: Îmbunătățește-ți productivitatea cu TimixGPT, care te ajută să configurezi secvențe perfecte de timere, adaptate nevoilor tale specifice.
+
+De ce să alegi Timix?
+
+Timix nu este doar despre a urmări timpul; este despre a-l controla pe toate dispozitivele tale Apple. Cu interfața sa versatilă și prietenoasă și setul robust de funcții, Timix se adaptează stilului tău de viață, ajutându-te să trăiești mai eficient și eficace.
+
+Gratuit, Fără Reclame și Fără Urmărire.
+
+Timix este un proiect open-source dedicat oferirii unei experiențe excepționale și accesibilității pentru toți. Bucură-te de o aplicație complet funcțională, fără reclame și fără costuri ascunse.
+
+Descarcă Timix acum și descoperă cum aplicația noastră te poate ajuta să-ți gestionezi timpul pe toate dispozitivele tale Apple. Preia controlul zilei tale cu Timix – companionul tău suprem pentru gestionarea timpului.

@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="BestTimer/Resources/en.lproj/AppShortcuts.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Begin ${template} with ${applicationName}" xml:space="preserve">
+        <source>Begin ${template} with ${applicationName}</source>
+        <target>Comenzar ${template} con ${applicationName}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Let's begin ${template} with ${applicationName}" xml:space="preserve">
+        <source>Let's begin ${template} with ${applicationName}</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Run ${template} using ${applicationName}" xml:space="preserve">
+        <source>Run ${template} using ${applicationName}</source>
+        <target>Ejecutar ${template} usando ${applicationName}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Run ${template} with ${applicationName}" xml:space="preserve">
+        <source>Run ${template} with ${applicationName}</source>
+        <target>Ejecutar ${template} con ${applicationName}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start ${template} using ${applicationName}" xml:space="preserve">
+        <source>Start ${template} using ${applicationName}</source>
+        <target>Iniciar ${template} usando ${applicationName}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start ${template} with ${applicationName}" xml:space="preserve">
+        <source>Start ${template} with ${applicationName}</source>
+        <target>Iniciar ${template} con ${applicationName}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start countdown using ${applicationName}" xml:space="preserve">
+        <source>Start countdown using ${applicationName}</source>
+        <target>Iniciar cuenta regresiva usando ${applicationName}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start countdown with ${applicationName}" xml:space="preserve">
+        <source>Start countdown with ${applicationName}</source>
+        <target>Iniciar cuenta regresiva con ${applicationName}</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimer/Resources/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Audio File" xml:space="preserve">
+        <source>Audio File</source>
+        <target state="translated">Archivo de audio</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Timix</source>
+        <target state="translated">Timix</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Timix</source>
+        <target state="translated">Timix</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSAppleMusicUsageDescription" xml:space="preserve">
+        <source>Allow Timix to play music.</source>
+        <target state="translated">Permite Timix reproduzca música.</target>
+        <note>Privacy - Media Library Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>Allow Timix to see timers</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>Allow Timix to run workouts</source>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>Allow Timix to update workouts</source>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSSiriUsageDescription" xml:space="preserve">
+        <source>Allow Timix to run by Siri</source>
+        <target state="needs-review-l10n">Esta aplicación requiere acceso a Siri para iniciar y gestionar tus temporizadores de cuenta regresiva mediante comandos de voz.</target>
+        <note>Privacy - Siri Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSUserNotificationsUsageDescription" xml:space="preserve">
+        <source>Timix will notify you as set.</source>
+        <target state="translated">Timix te notificará según lo configurado.</target>
+        <note>Privacy - Notification Usage Description</note>
+      </trans-unit>
+      <trans-unit id="Timix Template" xml:space="preserve">
+        <source>Timix Template</source>
+        <target state="translated">Timix Template</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimer/Resources/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="%@, starting now" xml:space="preserve">
+        <source>%@, starting now</source>
+        <target state="translated">%@, comenzando ahora</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel a Timer" xml:space="preserve">
+        <source>Cancel a Timer</source>
+        <target state="translated">Cancelar un Temporizador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Countdown" xml:space="preserve">
+        <source>Countdown</source>
+        <target state="translated">Cuenta regresiva</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Limited Functionality in Background" xml:space="preserve">
+        <source>Limited Functionality in Background</source>
+        <target state="translated">Funcionalidad Limitada en Segundo Plano</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Main List" translate="no" xml:space="preserve">
+        <source>Main List</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only notifications work in the background; all other triggers are ignored.&#10;Tip: Keep Timix open and dim your screen." xml:space="preserve">
+        <source>Only notifications work in the background; all other triggers are ignored.
+Tip: Keep Timix open and dim your screen.</source>
+        <target state="translated">Solo funcionan las notificaciones en segundo plano; todos los demás disparadores son ignorados.
+Consejo: Mantén Timix abierto y baja el brillo de la pantalla.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Timix" xml:space="preserve">
+        <source>Open Timix</source>
+        <target state="translated">Abrir Timix</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Timix App" xml:space="preserve">
+        <source>Open Timix App</source>
+        <target state="translated">Abrir la aplicación Timix</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Timix App in the control center." xml:space="preserve">
+        <source>Opens Timix App in the control center.</source>
+        <target state="translated">Abre la app Timix en el centro de control.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pinned" xml:space="preserve">
+        <source>Pinned</source>
+        <target state="translated">Fijado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Results" xml:space="preserve">
+        <source>Results</source>
+        <target state="translated">Resultados</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Resume or Pause a Timer" xml:space="preserve">
+        <source>Resume or Pause a Timer</source>
+        <target state="translated">Reanudar o Pausar un Temporizador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start ${template} Timer" xml:space="preserve">
+        <source>Start ${template} Timer</source>
+        <target state="translated">Inicia ${template} Temporizador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start a Countdown" xml:space="preserve">
+        <source>Start a Countdown</source>
+        <target state="translated">Iniciar una cuenta regresiva</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start a Timer" xml:space="preserve">
+        <source>Start a Timer</source>
+        <target state="translated">Iniciar un Temporizador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Starts a Timer using a specified template." xml:space="preserve">
+        <source>Starts a Timer using a specified template.</source>
+        <target state="translated">Inicia un Temporizador usando una plantilla especificada.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Suggestions" xml:space="preserve">
+        <source>Suggestions</source>
+        <target state="translated">Sugerencias</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Template" xml:space="preserve">
+        <source>Template</source>
+        <target state="translated">Plantilla</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The timer will be cancelled." xml:space="preserve">
+        <source>The timer will be cancelled.</source>
+        <target state="translated">El temporizador será cancelado.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The timer will be put on pause or resumed." xml:space="preserve">
+        <source>The timer will be put on pause or resumed.</source>
+        <target state="translated">El temporizador se pausará o reanudará.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Timix Controller" translate="no" xml:space="preserve">
+        <source>Timix Controller</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerCore/Sources/BestTimerCore/UI/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="" translate="no" xml:space="preserve">
+        <source/>
+        <target state="translated"/>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" and Repeats Enabled Triggers" xml:space="preserve">
+        <source> and Repeats Enabled Triggers</source>
+        <target state="translated">y Repite Disparadores Habilitados</target>
+        <note>Detail text indicating that the pause countdown repeats enabled triggers</note>
+      </trans-unit>
+      <trans-unit id="%1$@ of %2$lld" xml:space="preserve">
+        <source>%1$@ of %2$lld</source>
+        <target state="translated">%1$@ de %2$lld</target>
+        <note>Accessibility value format for the selected timer in the timeline</note>
+      </trans-unit>
+      <trans-unit id="%1$lld timers; Duration: %2$@" xml:space="preserve">
+        <source>%1$lld timers; Duration: %2$@</source>
+        <target state="translated">%1$lld temporizadores; Duración: %2$@</target>
+        <note>Accessibility label format for the countdown timeline bar</note>
+      </trans-unit>
+      <trans-unit id="%lld Results|==|plural.one" xml:space="preserve">
+        <source>%lld Result</source>
+        <target state="translated">%lld resultado</target>
+        <note>Header text displaying the number of search results</note>
+      </trans-unit>
+      <trans-unit id="%lld Results|==|plural.other" xml:space="preserve">
+        <source>%lld Results</source>
+        <target state="translated">%lld resultados</target>
+        <note>Header text displaying the number of search results</note>
+      </trans-unit>
+      <trans-unit id="%lld times|==|plural.one" xml:space="preserve">
+        <source>%lld time</source>
+        <target state="translated">%lld vez</target>
+        <note>Format string for specifying the number of times an action occurs</note>
+      </trans-unit>
+      <trans-unit id="%lld times|==|plural.other" xml:space="preserve">
+        <source>%lld times</source>
+        <target state="translated">%lld veces</target>
+        <note>Format string for specifying the number of times an action occurs</note>
+      </trans-unit>
+      <trans-unit id="- Banners: Currently disabled, so you won't see notifications from timers." xml:space="preserve">
+        <source>- Banners: Currently disabled, so you won't see notifications from timers.</source>
+        <target state="translated">- Banners: Actualmente desactivados, por lo que no verás notificaciones de los temporizadores.</target>
+        <note>Explanation that banner notifications are disabled</note>
+      </trans-unit>
+      <trans-unit id="- Critical Alerts: Disabled, which could mean missing vital warnings." xml:space="preserve">
+        <source>- Critical Alerts: Disabled, which could mean missing vital warnings.</source>
+        <target state="translated">- Alertas críticas: Desactivadas, lo que podría significar la pérdida de advertencias vitales.</target>
+        <note>Explanation that critical alerts are disabled</note>
+      </trans-unit>
+      <trans-unit id="- Sounds: Turned off, meaning you'll miss audible alerts." xml:space="preserve">
+        <source>- Sounds: Turned off, meaning you'll miss audible alerts.</source>
+        <target state="translated">- Sonidos: Apagados, lo que significa que te perderás las alertas audibles.</target>
+        <note>Explanation that notification sounds are disabled</note>
+      </trans-unit>
+      <trans-unit id="Access Denied" xml:space="preserve">
+        <source>Access Denied</source>
+        <target state="translated">Acceso denegado</target>
+        <note>Alert title for when access to Apple Music is denied</note>
+      </trans-unit>
+      <trans-unit id="Activate the phone vibration by tapping here" xml:space="preserve">
+        <source>Activate the phone vibration by tapping here</source>
+        <target state="translated">Activa la vibración del teléfono tocando aquí</target>
+        <note>Tutorial step 11 instruction</note>
+      </trans-unit>
+      <trans-unit id="Activity" xml:space="preserve">
+        <source>Activity</source>
+        <target state="translated">Actividad</target>
+        <note>Detail text for workout activity</note>
+      </trans-unit>
+      <trans-unit id="Add Timer" xml:space="preserve">
+        <source>Add Timer</source>
+        <target state="translated">Añadir temporizador</target>
+        <note>Accessibility label for adding a timer to the timeline</note>
+      </trans-unit>
+      <trans-unit id="Alert Message" xml:space="preserve">
+        <source>Alert Message</source>
+        <target state="translated">Mensaje de Alerta</target>
+        <note>Detail text for specifying a confirmation alert message</note>
+      </trans-unit>
+      <trans-unit id="All data has been removed." xml:space="preserve">
+        <source>All data has been removed.</source>
+        <target state="translated">Todos los datos han sido eliminados.</target>
+        <note>Notification message indicating all data has been removed</note>
+      </trans-unit>
+      <trans-unit id="All set? Start the timer by tapping the 'Start' button. The countdown begins!" xml:space="preserve">
+        <source>All set? Start the timer by tapping the 'Start' button. The countdown begins!</source>
+        <target state="translated">¿Todo listo? Inicia el temporizador tocando el botón 'Inicio'. ¡Comienza la cuenta atrás!</target>
+        <note>Tutorial step 14 instruction</note>
+      </trans-unit>
+      <trans-unit id="And if it’s time to stop, a swift swipe to the left will do just that" xml:space="preserve">
+        <source>And if it’s time to stop, a swift swipe to the left will do just that</source>
+        <target state="translated">Y si es hora de detenerse, un rápido deslizamiento a la izquierda lo hará justamente</target>
+        <note>Tutorial step 17 instruction (iOS)</note>
+      </trans-unit>
+      <trans-unit id="And if it’s time to stop, scrolling to the left will do just that" xml:space="preserve">
+        <source>And if it’s time to stop, scrolling to the left will do just that</source>
+        <target state="translated">Y si es hora de detenerse, deslizar hacia la izquierda hará justo eso</target>
+        <note>Tutorial step 17 instruction (macOS)</note>
+      </trans-unit>
+      <trans-unit id="Ask TimixGPT" xml:space="preserve">
+        <source>Ask TimixGPT</source>
+        <target state="translated">Pregúntale a TimixGPT</target>
+        <note>Row text for asking TimixGPT</note>
+      </trans-unit>
+      <trans-unit id="Assign a duration of 1 minute to this new timer—short and sweet" xml:space="preserve">
+        <source>Assign a duration of 1 minute to this new timer—short and sweet</source>
+        <target state="translated">Asigna una duración de 1 minuto a este nuevo temporizador: breve y conciso</target>
+        <note>Tutorial step 7 instruction</note>
+      </trans-unit>
+      <trans-unit id="Begin Workout" xml:space="preserve">
+        <source>Begin Workout</source>
+        <target state="translated">Iniciar entrenamiento</target>
+        <note>Row title for beginning a workout</note>
+      </trans-unit>
+      <trans-unit id="Camera" xml:space="preserve">
+        <source>Camera</source>
+        <target state="translated">Cámara</target>
+        <note>Button title for camera-based duration input</note>
+      </trans-unit>
+      <trans-unit id="Can't access file '%@'. Save file to Files app and open file again." xml:space="preserve">
+        <source>Can't access file '%@'. Save file to Files app and open file again.</source>
+        <target state="translated">No se puede acceder al archivo '%@'. Guarda el archivo en la app Archivos y vuelve a abrirlo.</target>
+        <note>Error message when a template file cannot be accessed</note>
+      </trans-unit>
+      <trans-unit id="Can't import '%@'" xml:space="preserve">
+        <source>Can't import '%@'</source>
+        <target state="translated">No se puede importar %@ </target>
+        <note>Notification message for a template import error</note>
+      </trans-unit>
+      <trans-unit id="Choose a Voice" xml:space="preserve">
+        <source>Choose a Voice</source>
+        <target state="translated">Elige una voz</target>
+        <note>Title for the voice picker</note>
+      </trans-unit>
+      <trans-unit id="Choose to 'Stop Playing' music" xml:space="preserve">
+        <source>Choose to 'Stop Playing' music</source>
+        <target state="translated">Elige 'Dejar de reproducir' música</target>
+        <note>Tutorial step 3 instruction</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target state="translated">Cerrar</target>
+        <note>Button text for closing the timer list</note>
+      </trans-unit>
+      <trans-unit id="Color" xml:space="preserve">
+        <source>Color</source>
+        <target state="translated">Color</target>
+        <note>Row title for selecting a timer color</note>
+      </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <target state="translated">Copia</target>
+        <note>Suffix appended to a template name when it is duplicated</note>
+      </trans-unit>
+      <trans-unit id="Couldn't find activities for '%@'..." xml:space="preserve">
+        <source>Couldn't find activities for '%@'...</source>
+        <target state="translated">No se pudieron encontrar actividades para “%@”…</target>
+        <note>Message displayed when no workout activities are found for the query</note>
+      </trans-unit>
+      <trans-unit id="Countdown" xml:space="preserve">
+        <source>Countdown</source>
+        <target state="translated">Cuenta regresiva</target>
+        <note>Menu title for countdown commands</note>
+      </trans-unit>
+      <trans-unit id="Countdown: %1$@, ends at %2$@ and remained duration is %3$@" xml:space="preserve">
+        <source>Countdown: %1$@, ends at %2$@ and remained duration is %3$@</source>
+        <target state="translated">Cuenta regresiva: %1$@; termina a las %2$@ y la duración restante es %3$@</target>
+        <note>Accessibility label format for countdown progress information</note>
+      </trans-unit>
+      <trans-unit id="Countdown: '%@'; " xml:space="preserve">
+        <source>Countdown: '%@'; </source>
+        <target state="translated">Cuenta regresiva: '%@';</target>
+        <note>Accessibility label format for countdown information</note>
+      </trans-unit>
+      <trans-unit id="Counting Direction" xml:space="preserve">
+        <source>Counting Direction</source>
+        <target state="translated">Dirección de conteo</target>
+        <note>Help text for switching the counting direction</note>
+      </trans-unit>
+      <trans-unit id="Counting Down" xml:space="preserve">
+        <source>Counting Down</source>
+        <target state="translated">Contando hacia abajo</target>
+        <note>Button text indicating the timer counts downward</note>
+      </trans-unit>
+      <trans-unit id="Counting Up" xml:space="preserve">
+        <source>Counting Up</source>
+        <target state="translated">Contando hacia arriba</target>
+        <note>Button text indicating the timer counts upward</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Eliminar</target>
+        <note>Button text for deleting a template</note>
+      </trans-unit>
+      <trans-unit id="Delete '%@' template?" xml:space="preserve">
+        <source>Delete '%@' template?</source>
+        <target state="translated">¿Eliminar la plantilla '%@'?</target>
+        <note>Alert title format for confirming template deletion</note>
+      </trans-unit>
+      <trans-unit id="Delete Timer" xml:space="preserve">
+        <source>Delete Timer</source>
+        <target state="translated">Eliminar temporizador</target>
+        <note>Accessibility label for deleting a timer from the timeline</note>
+      </trans-unit>
+      <trans-unit id="Double tap to edit timer" xml:space="preserve">
+        <source>Double tap to edit timer</source>
+        <target state="translated">Toca dos veces para editar el temporizador</target>
+        <note>Accessibility hint for editing a timer in the timeline bar</note>
+      </trans-unit>
+      <trans-unit id="Double tap to switch between detail modes" xml:space="preserve">
+        <source>Double tap to switch between detail modes</source>
+        <target state="translated">Doble toque para cambiar entre modos de detalles</target>
+        <note>Accessibility hint for switching detail modes in the template form</note>
+      </trans-unit>
+      <trans-unit id="Download More Voices..." xml:space="preserve">
+        <source>Download More Voices...</source>
+        <target state="translated">Descargar más voces…</target>
+        <note>Command text for downloading additional voices</note>
+      </trans-unit>
+      <trans-unit id="Download Timix app on App Store" xml:space="preserve">
+        <source>Download Timix app on App Store</source>
+        <target state="translated">Descargar Timix desde la App Store</target>
+        <note>Subject text for sharing the Timix app</note>
+      </trans-unit>
+      <trans-unit id="Duplicate" xml:space="preserve">
+        <source>Duplicate</source>
+        <target state="translated">Duplicar</target>
+        <note>Action sheet button text for duplicating a template on the Watch</note>
+      </trans-unit>
+      <trans-unit id="Duplicate Timer" xml:space="preserve">
+        <source>Duplicate Timer</source>
+        <target state="translated">Duplicar temporizador</target>
+        <note>Accessibility label for duplicating a timer from the timeline</note>
+      </trans-unit>
+      <trans-unit id="Duplicate the Template" xml:space="preserve">
+        <source>Duplicate the Template</source>
+        <target state="translated">Duplicar la plantilla</target>
+        <note>Accessibility label for the duplicate template button</note>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <target state="translated">Duración</target>
+        <note>Row title for timer duration in the Watch view</note>
+      </trans-unit>
+      <trans-unit id="Duration: %1$@; %2$lld timers|==|plural.one" xml:space="preserve">
+        <source>Duration: %1$@; %2$lld timer</source>
+        <target state="translated">Duración: %1$@; %2$lld temporizador</target>
+        <note>Format string for the template app entity subtitle, showing duration and timer count</note>
+      </trans-unit>
+      <trans-unit id="Duration: %1$@; %2$lld timers|==|plural.other" xml:space="preserve">
+        <source>Duration: %1$@; %2$lld timers</source>
+        <target state="translated">Duración: %1$@; %2$lld temporizadores</target>
+        <note>Format string for the template app entity subtitle, showing duration and timer count</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target state="translated">Editar</target>
+        <note>Action sheet button text for editing a template on the Watch</note>
+      </trans-unit>
+      <trans-unit id="Enable notifications to stay updated with timers and alerts. Don’t miss out on important reminders!" xml:space="preserve">
+        <source>Enable notifications to stay updated with timers and alerts. Don’t miss out on important reminders!</source>
+        <target state="translated">Activa las notificaciones para mantenerte actualizado con los temporizadores y alertas. ¡No te pierdas recordatorios importantes!</target>
+        <note>Message encouraging the user to enable notifications</note>
+      </trans-unit>
+      <trans-unit id="End Workout" xml:space="preserve">
+        <source>End Workout</source>
+        <target state="translated">Finalizar entrenamiento</target>
+        <note>Row title for ending a workout</note>
+      </trans-unit>
+      <trans-unit id="Enter a name for the template" xml:space="preserve">
+        <source>Enter a name for the template</source>
+        <target state="translated">Introduce un nombre para la plantilla</target>
+        <note>Alert title prompting the user to enter a template name</note>
+      </trans-unit>
+      <trans-unit id="Erase All" xml:space="preserve">
+        <source>Erase All</source>
+        <target state="translated">Borrar todo</target>
+        <note>Button text to confirm data removal</note>
+      </trans-unit>
+      <trans-unit id="Erase All Timix Data?" xml:space="preserve">
+        <source>Erase All Timix Data?</source>
+        <target state="translated">¿Borrar todos los datos de Timix?</target>
+        <note>Alert title for confirming data removal</note>
+      </trans-unit>
+      <trans-unit id="Error: %@" xml:space="preserve">
+        <source>Error: %@</source>
+        <target state="translated">Error: %@</target>
+        <note>Notification title for a template import error</note>
+      </trans-unit>
+      <trans-unit id="Ex. 🧘🏼‍♀️Yoga Routine" xml:space="preserve">
+        <source>Ex. 🧘🏼‍♀️Yoga Routine</source>
+        <target state="translated">Por ej. 🧘🏼‍♀️ Rutina de Yoga</target>
+        <note>Placeholder text for entering a template name</note>
+      </trans-unit>
+      <trans-unit id="Find Templates" xml:space="preserve">
+        <source>Find Templates</source>
+        <target state="translated">Encontrar plantillas</target>
+        <note>Command text for searching templates</note>
+      </trans-unit>
+      <trans-unit id="First up, let's set a trigger to activate right when your timer kicks off" xml:space="preserve">
+        <source>First up, let's set a trigger to activate right when your timer kicks off</source>
+        <target state="translated">Primero, vamos a configurar un disparador para que se active justo cuando tu temporizador se inicie</target>
+        <note>Tutorial step 1 instruction</note>
+      </trans-unit>
+      <trans-unit id="Flash the Screen" xml:space="preserve">
+        <source>Flash the Screen</source>
+        <target state="translated">Hacer parpadear la pantalla</target>
+        <note>Row title for triggering a screen flash</note>
+      </trans-unit>
+      <trans-unit id="Flash the Torch" xml:space="preserve">
+        <source>Flash the Torch</source>
+        <target state="translated">Activar el flash de la linterna</target>
+        <note>Row title for triggering a torch flash</note>
+      </trans-unit>
+      <trans-unit id="Flip Counting Direction" xml:space="preserve">
+        <source>Flip Counting Direction</source>
+        <target state="translated">Cambiar la dirección de conteo</target>
+        <note>Command text for flipping the counting direction</note>
+      </trans-unit>
+      <trans-unit id="Gift Timix to a Friend" xml:space="preserve">
+        <source>Gift Timix to a Friend</source>
+        <target state="translated">Regalar Timix a un amigo</target>
+        <note>Button title for gifting Timix to a friend</note>
+      </trans-unit>
+      <trans-unit id="Give your template a unique title. Siri will learn it." xml:space="preserve">
+        <source>Give your template a unique title. Siri will learn it.</source>
+        <target state="translated">Dale a tu plantilla un título único. Siri lo aprenderá.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Has Completed" xml:space="preserve">
+        <source>Has Completed</source>
+        <target state="translated">Completado</target>
+        <note>Accessibility value indicating the timer has completed</note>
+      </trans-unit>
+      <trans-unit id="Here’s the link to download Timix, the Timer App I was telling you about!" xml:space="preserve">
+        <source>Here’s the link to download Timix, the Timer App I was telling you about!</source>
+        <target state="translated">Aquí está el enlace para descargar Timix, la aplicación de temporizador de la que te estaba hablando.</target>
+        <note>Message text with the download link for Timix</note>
+      </trans-unit>
+      <trans-unit id="Hidden" xml:space="preserve">
+        <source>Hidden</source>
+        <target state="translated">Ocultos</target>
+        <note>Text indicating that controls are hidden</note>
+      </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <target state="translated">Importar</target>
+        <note>Button text for importing timers</note>
+      </trans-unit>
+      <trans-unit id="Import Audio File" xml:space="preserve">
+        <source>Import Audio File</source>
+        <target state="translated">Importar uno audio</target>
+        <note>Button title for importing an audio file</note>
+      </trans-unit>
+      <trans-unit id="Is Counting" xml:space="preserve">
+        <source>Is Counting</source>
+        <target state="translated">Está contando</target>
+        <note>Accessibility value indicating the timer is counting</note>
+      </trans-unit>
+      <trans-unit id="Is Paused" xml:space="preserve">
+        <source>Is Paused</source>
+        <target state="translated">En pausa</target>
+        <note>Accessibility value indicating the timer is paused</note>
+      </trans-unit>
+      <trans-unit id="Is Pinned" xml:space="preserve">
+        <source>Is Pinned</source>
+        <target state="translated">Fijado</target>
+        <note>Accessibility value indicating the template is pinned</note>
+      </trans-unit>
+      <trans-unit id="Is Waiting To Be Resumed" xml:space="preserve">
+        <source>Is Waiting To Be Resumed</source>
+        <target state="translated">Esperando para ser reanudado</target>
+        <note>Accessibility value indicating the timer is waiting to be resumed</note>
+      </trans-unit>
+      <trans-unit id="Jump to Next Timer" xml:space="preserve">
+        <source>Jump to Next Timer</source>
+        <target state="translated">Saltar al siguiente temporizador</target>
+        <note>Command text for navigating to the next timer</note>
+      </trans-unit>
+      <trans-unit id="Jump to Previous Timer" xml:space="preserve">
+        <source>Jump to Previous Timer</source>
+        <target state="translated">Saltar al temporizador anterior</target>
+        <note>Command text for navigating to the previous timer</note>
+      </trans-unit>
+      <trans-unit id="Just hit the Camera button to move any timer quickly and easy to Timix!" xml:space="preserve">
+        <source>Just hit the Camera button to move any timer quickly and easy to Timix!</source>
+        <target state="translated">¡Solo pulsa el botón de Cámara para mover cualquier temporizador de forma rápida y sencilla a Timix!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Label" xml:space="preserve">
+        <source>Label</source>
+        <target state="translated">Etiqueta</target>
+        <note>Row title for setting the timer's label</note>
+      </trans-unit>
+      <trans-unit id="Last Timer" xml:space="preserve">
+        <source>Last Timer</source>
+        <target state="translated">Último temporizador</target>
+        <note>Accessibility label for the last timer in a sequence</note>
+      </trans-unit>
+      <trans-unit id="Learn More" xml:space="preserve">
+        <source>Learn More</source>
+        <target state="translated">Aprende más</target>
+        <note>Command text for accessing additional information</note>
+      </trans-unit>
+      <trans-unit id="Learn more" xml:space="preserve">
+        <source>Learn more</source>
+        <target state="translated">Aprender más</target>
+        <note>Button title for learning more about Timix</note>
+      </trans-unit>
+      <trans-unit id="Let’s set another trigger to spring into action when the timer starts" xml:space="preserve">
+        <source>Let’s set another trigger to spring into action when the timer starts</source>
+        <target state="translated">Configuremos otro disparador para que entre en acción cuando el temporizador se inicie</target>
+        <note>Tutorial step 10 instruction</note>
+      </trans-unit>
+      <trans-unit id="MIN" xml:space="preserve">
+        <source>MIN</source>
+        <target state="translated">MIN</target>
+        <note>Abbreviation for minutes in the time interval presets</note>
+      </trans-unit>
+      <trans-unit id="Magic tap to pause or resume a timer" xml:space="preserve">
+        <source>Magic tap to pause or resume a timer</source>
+        <target state="translated">Toque mágico para pausar o reanudar un temporizador</target>
+        <note>Accessibility hint for the countdown row</note>
+      </trans-unit>
+      <trans-unit id="Magic tap to start a timer" xml:space="preserve">
+        <source>Magic tap to start a timer</source>
+        <target state="translated">Toca dos veces para iniciar un temporizador</target>
+        <note>Accessibility hint for starting a timer from a template row</note>
+      </trans-unit>
+      <trans-unit id="Manual" xml:space="preserve">
+        <source>Manual</source>
+        <target state="translated">Manual</target>
+        <note>Button title for manual duration input</note>
+      </trans-unit>
+      <trans-unit id="Music" xml:space="preserve">
+        <source>Music</source>
+        <target state="translated">Música</target>
+        <note>Section title for music options</note>
+      </trans-unit>
+      <trans-unit id="Need a pause? Tap the 'Pause' button" xml:space="preserve">
+        <source>Need a pause? Tap the 'Pause' button</source>
+        <target state="translated">¿Necesitas una pausa? Toca el botón 'Pausa'</target>
+        <note>Tutorial step 15 instruction</note>
+      </trans-unit>
+      <trans-unit id="New" xml:space="preserve">
+        <source>New</source>
+        <target state="translated">Nuevo</target>
+        <note>Command text for creating a new item</note>
+      </trans-unit>
+      <trans-unit id="New template" xml:space="preserve">
+        <source>New template</source>
+        <target state="translated">Nueva plantilla</target>
+        <note>Accessibility label for the new template button</note>
+      </trans-unit>
+      <trans-unit id="No Active Timers" xml:space="preserve">
+        <source>No Active Timers</source>
+        <target state="translated">No hay temporizadores activos</target>
+        <note>Text displayed when there are no active timers on the Watch</note>
+      </trans-unit>
+      <trans-unit id="No Countdowns Here" xml:space="preserve">
+        <source>No Countdowns Here</source>
+        <target state="translated">No hay temporizadores aquí</target>
+        <note>Window title when there are no active countdowns</note>
+      </trans-unit>
+      <trans-unit id="No Timers" xml:space="preserve">
+        <source>No Timers</source>
+        <target state="translated">No hay temporizadores</target>
+        <note>Text displayed when there are no timers on the Watch</note>
+      </trans-unit>
+      <trans-unit id="No results for '%@'" xml:space="preserve">
+        <source>No results for '%@'</source>
+        <target state="translated">No hay resultados para '%@'</target>
+        <note>Message displayed when no search results are found</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target state="translated">Ninguno</target>
+        <note>Detail text indicating that no action is selected</note>
+      </trans-unit>
+      <trans-unit id="Notification Message" xml:space="preserve">
+        <source>Notification Message</source>
+        <target state="translated">Mensaje de notificación</target>
+        <note>Detail text for specifying a notification message</note>
+      </trans-unit>
+      <trans-unit id="Now, tap here to select a sound that will play the moment the timer starts" xml:space="preserve">
+        <source>Now, tap here to select a sound that will play the moment the timer starts</source>
+        <target state="translated">Ahora, toca aquí para seleccionar un sonido que se reproducirá en el momento en que el temporizador comience</target>
+        <note>Tutorial step 2 instruction</note>
+      </trans-unit>
+      <trans-unit id="Open New Main List Window" xml:space="preserve">
+        <source>Open New Main List Window</source>
+        <target state="translated">Abrir nueva ventana principal de la lista</target>
+        <note>Command text for opening a new main list window</note>
+      </trans-unit>
+      <trans-unit id="Open Settings" xml:space="preserve">
+        <source>Open Settings</source>
+        <target state="translated">Abrir configuración</target>
+        <note>Button label for opening the app's settings in the Settings app</note>
+      </trans-unit>
+      <trans-unit id="Open Timix Settings" xml:space="preserve">
+        <source>Open Timix Settings</source>
+        <target state="translated">Abrir configuraciones de Timix</target>
+        <note>Button title for opening the Timix settings</note>
+      </trans-unit>
+      <trans-unit id="Open in New Window" xml:space="preserve">
+        <source>Open in New Window</source>
+        <target state="translated">Abrir en una nueva ventana</target>
+        <note>Command text for opening the timer in a new window</note>
+      </trans-unit>
+      <trans-unit id="Open the Watch app, and under the My Watch tab, find Timer Watch app." xml:space="preserve">
+        <source>Open the Watch app, and under the My Watch tab, find Timer Watch app.</source>
+        <target state="translated">Abre la aplicación de Reloj y, en la pestaña Mi Reloj, encuentra la aplicación Timer Watch.</target>
+        <note>Banner message instructing the user to open the Watch app to locate the Timer Watch app</note>
+      </trans-unit>
+      <trans-unit id="Open the Watch app, and under the My Watch tab, find Timix Watch app at the bottom of the list." xml:space="preserve">
+        <source>Open the Watch app, and under the My Watch tab, find Timix Watch app at the bottom of the list.</source>
+        <target state="translated">Abre la aplicación Watch y, en la pestaña "Mi reloj", encuentra la aplicación Timix Watch en la parte inferior de la lista.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pause" xml:space="preserve">
+        <source>Pause</source>
+        <target state="translated">Pausa</target>
+        <note>Button text to pause the timer</note>
+      </trans-unit>
+      <trans-unit id="Pause Countdown" xml:space="preserve">
+        <source>Pause Countdown</source>
+        <target state="translated">Pausar Cuenta Atrás</target>
+        <note>Detail text for the pause countdown trigger
+Row title for pausing a countdown</note>
+      </trans-unit>
+      <trans-unit id="Pause the Countdown" xml:space="preserve">
+        <source>Pause the Countdown</source>
+        <target state="translated">Pausar la cuenta regresiva</target>
+        <note>Accessibility label for the pause countdown button</note>
+      </trans-unit>
+      <trans-unit id="Pause/Resume" xml:space="preserve">
+        <source>Pause/Resume</source>
+        <target state="translated">Pausa/Reanudar</target>
+        <note>Command text for pausing or resuming a timer</note>
+      </trans-unit>
+      <trans-unit id="Perform %lld Actions|==|plural.one" xml:space="preserve">
+        <source>Perform %lld Actions</source>
+        <target state="translated">Realizar %lld acción</target>
+        <note>Detail text showing the number of actions to be performed</note>
+      </trans-unit>
+      <trans-unit id="Perform %lld Actions|==|plural.other" xml:space="preserve">
+        <source>Perform %lld Actions</source>
+        <target state="translated">Realizar %lld acciones</target>
+        <note>Detail text showing the number of actions to be performed</note>
+      </trans-unit>
+      <trans-unit id="Phone Vibrates" xml:space="preserve">
+        <source>Phone Vibrates</source>
+        <target state="translated">El teléfono vibra</target>
+        <note>Detail text for specifying the phone vibration pattern</note>
+      </trans-unit>
+      <trans-unit id="Phone Vibrates %lld times|==|plural.one" xml:space="preserve">
+        <source>Phone Vibrates %lld time</source>
+        <target state="translated">El teléfono vibra %lld vez</target>
+        <note>Detail text specifying the number of times the phone vibrates</note>
+      </trans-unit>
+      <trans-unit id="Phone Vibrates %lld times|==|plural.other" xml:space="preserve">
+        <source>Phone Vibrates %lld times</source>
+        <target state="translated">El teléfono vibra %lld veces</target>
+        <note>Detail text specifying the number of times the phone vibrates</note>
+      </trans-unit>
+      <trans-unit id="Pick a Color" xml:space="preserve">
+        <source>Pick a Color</source>
+        <target state="translated">Escoge un color</target>
+        <note>Title for the color picker on the Watch</note>
+      </trans-unit>
+      <trans-unit id="Pick a Song" xml:space="preserve">
+        <source>Pick a Song</source>
+        <target state="translated">Elige una canción</target>
+        <note>Row title for selecting a song from the music library</note>
+      </trans-unit>
+      <trans-unit id="Pick an Activity" xml:space="preserve">
+        <source>Pick an Activity</source>
+        <target state="translated">Seleccionar una actividad</target>
+        <note>Title for the workout activity picker</note>
+      </trans-unit>
+      <trans-unit id="Pick an Audio" xml:space="preserve">
+        <source>Pick an Audio</source>
+        <target state="translated">Elige un audio</target>
+        <note>Title for the audio trigger picker</note>
+      </trans-unit>
+      <trans-unit id="Pin Frequently Used Template" xml:space="preserve">
+        <source>Pin Frequently Used Template</source>
+        <target state="translated">Fijar plantilla usada frecuentemente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pin Template" xml:space="preserve">
+        <source>Pin Template</source>
+        <target state="translated">Anclar plantilla</target>
+        <note>Accessibility label for the pin template button</note>
+      </trans-unit>
+      <trans-unit id="Pin/Unpin" xml:space="preserve">
+        <source>Pin/Unpin</source>
+        <target state="translated">Fijar/Desfijar</target>
+        <note>Command text for toggling the pinned state</note>
+      </trans-unit>
+      <trans-unit id="Pinned" xml:space="preserve">
+        <source>Pinned</source>
+        <target state="translated">Fijados</target>
+        <note>Section title for pinned templates</note>
+      </trans-unit>
+      <trans-unit id="Pinned templates will appear at the top of your list, allowing quick access." xml:space="preserve">
+        <source>Pinned templates will appear at the top of your list, allowing quick access.</source>
+        <target state="translated">Las plantillas fijadas aparecerán en la parte superior de tu lista, permitiendo un acceso rápido.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Play '%@'" xml:space="preserve">
+        <source>Play '%@'</source>
+        <target state="translated">Reproducir '%@'</target>
+        <note>Detail text for specifying a song to play</note>
+      </trans-unit>
+      <trans-unit id="Please install Timix Watch app and press Retry" xml:space="preserve">
+        <source>Please install Timix Watch app and press Retry</source>
+        <target state="translated">Por favor, instala la aplicación Timix Watch y pulsa Reintentar</target>
+        <note>Alert message prompting the user to install the Timix Watch app</note>
+      </trans-unit>
+      <trans-unit id="Post Notification '%@'" xml:space="preserve">
+        <source>Post Notification '%@'</source>
+        <target state="translated">Publicar notificación '%@'</target>
+        <note>Detail text for configuring a notification</note>
+      </trans-unit>
+      <trans-unit id="Post a Notification" xml:space="preserve">
+        <source>Post a Notification</source>
+        <target state="translated">Publicar una notificación</target>
+        <note>Row title for posting a notification</note>
+      </trans-unit>
+      <trans-unit id="Presets" xml:space="preserve">
+        <source>Presets</source>
+        <target state="translated">Presets</target>
+        <note>Header text for the time interval presets section</note>
+      </trans-unit>
+      <trans-unit id="Preview Voice" xml:space="preserve">
+        <source>Preview Voice</source>
+        <target state="translated">Escuchar la voz</target>
+        <note>Accessibility label for the voice preview button</note>
+      </trans-unit>
+      <trans-unit id="Ready to say goodbye to a timer? Tap here to remove it from the sequence" xml:space="preserve">
+        <source>Ready to say goodbye to a timer? Tap here to remove it from the sequence</source>
+        <target state="translated">¿Listo para despedirte de un temporizador? Toca aquí para eliminarlo de la secuencia</target>
+        <note>Tutorial step 9 instruction</note>
+      </trans-unit>
+      <trans-unit id="Recents" xml:space="preserve">
+        <source>Recents</source>
+        <target state="translated">Recientes</target>
+        <note>Section title for recently used templates</note>
+      </trans-unit>
+      <trans-unit id="Remove the Template" xml:space="preserve">
+        <source>Remove the Template</source>
+        <target state="translated">Eliminar la plantilla</target>
+        <note>Accessibility label for the remove template button</note>
+      </trans-unit>
+      <trans-unit id="Repeats Other Triggers" xml:space="preserve">
+        <source>Repeats Other Triggers</source>
+        <target state="translated">Repite Otros Disparadores</target>
+        <note>Detail text indicating that the countdown trigger repeats</note>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <target state="translated">Restablecer</target>
+        <note>Command text for resetting a timer</note>
+      </trans-unit>
+      <trans-unit id="Reset the Countdown" xml:space="preserve">
+        <source>Reset the Countdown</source>
+        <target state="translated">Reiniciar la cuenta regresiva</target>
+        <note>Accessibility label for the reset countdown button</note>
+      </trans-unit>
+      <trans-unit id="Resume" xml:space="preserve">
+        <source>Resume</source>
+        <target state="translated">Reanudar</target>
+        <note>Button text to resume the timer</note>
+      </trans-unit>
+      <trans-unit id="Resume the Countdown" xml:space="preserve">
+        <source>Resume the Countdown</source>
+        <target state="translated">Reanudar la cuenta regresiva</target>
+        <note>Accessibility label for the resume countdown button</note>
+      </trans-unit>
+      <trans-unit id="Retry" xml:space="preserve">
+        <source>Retry</source>
+        <target state="translated">Reintentar</target>
+        <note>Text for the Retry button</note>
+      </trans-unit>
+      <trans-unit id="SEC" xml:space="preserve">
+        <source>SEC</source>
+        <target state="translated">SEG</target>
+        <note>Abbreviation for seconds in the time interval presets</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">Guardar</target>
+        <note>Button text for saving the current template</note>
+      </trans-unit>
+      <trans-unit id="Scan Timers" xml:space="preserve">
+        <source>Scan Timers</source>
+        <target state="translated">Escanear temporizadores</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Screen Flashes" xml:space="preserve">
+        <source>Screen Flashes</source>
+        <target state="translated">Parpadeo de pantalla</target>
+        <note>Detail text for specifying the screen flash pattern</note>
+      </trans-unit>
+      <trans-unit id="Screen Flashes %lld times|==|plural.one" xml:space="preserve">
+        <source>Screen Flashes %lld time</source>
+        <target state="translated">La pantalla parpadea %lld vez</target>
+        <note>Detail text specifying the number of times the screen flashes</note>
+      </trans-unit>
+      <trans-unit id="Screen Flashes %lld times|==|plural.other" xml:space="preserve">
+        <source>Screen Flashes %lld times</source>
+        <target state="translated">La pantalla parpadea %lld veces</target>
+        <note>Detail text specifying the number of times the screen flashes</note>
+      </trans-unit>
+      <trans-unit id="Search activities..." xml:space="preserve">
+        <source>Search activities...</source>
+        <target state="translated">Buscar actividades…</target>
+        <note>Search prompt for the workout activity picker</note>
+      </trans-unit>
+      <trans-unit id="Search templates and timers..." xml:space="preserve">
+        <source>Search templates and timers...</source>
+        <target state="translated">Buscar plantillas y temporizadores...</target>
+        <note>Placeholder text for the search bar</note>
+      </trans-unit>
+      <trans-unit id="Select another timer from your sequence to tweak or remove" xml:space="preserve">
+        <source>Select another timer from your sequence to tweak or remove</source>
+        <target state="translated">Selecciona otro temporizador de tu secuencia para ajustarlo o eliminarlo</target>
+        <note>Tutorial step 8 instruction</note>
+      </trans-unit>
+      <trans-unit id="Set As Default" xml:space="preserve">
+        <source>Set As Default</source>
+        <target state="translated">Establecer como predeterminado</target>
+        <note>Button text to set a trigger as default</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">Configuración</target>
+        <note>Button title for opening settings
+Button title for opening the Settings app</note>
+      </trans-unit>
+      <trans-unit id="Share &quot;%@&quot; template" xml:space="preserve">
+        <source>Share "%@" template</source>
+        <target state="translated">Compartir plantilla "%@"</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Template" xml:space="preserve">
+        <source>Share Template</source>
+        <target state="translated">Compartir plantilla</target>
+        <note>Accessibility label for the share template button</note>
+      </trans-unit>
+      <trans-unit id="Show Confirmation Alert" xml:space="preserve">
+        <source>Show Confirmation Alert</source>
+        <target state="translated"/>
+        <note>Row title for displaying a confirmation alert</note>
+      </trans-unit>
+      <trans-unit id="Show Confirmation Alert '%@'" xml:space="preserve">
+        <source>Show Confirmation Alert '%@'</source>
+        <target state="translated">Mostrar Alerta de Confirmación '%@'</target>
+        <note>Detail text for configuring a confirmation alert</note>
+      </trans-unit>
+      <trans-unit id="Skip" xml:space="preserve">
+        <source>Skip</source>
+        <target state="translated">Saltar</target>
+        <note>Button text to skip the tutorial</note>
+      </trans-unit>
+      <trans-unit id="Sound" xml:space="preserve">
+        <source>Sound</source>
+        <target state="translated">Sonido</target>
+        <note>Section title for sound options</note>
+      </trans-unit>
+      <trans-unit id="Speak" xml:space="preserve">
+        <source>Speak</source>
+        <target state="translated">Hablar</target>
+        <note>Section title for speak options</note>
+      </trans-unit>
+      <trans-unit id="Speak '%@'" xml:space="preserve">
+        <source>Speak '%@'</source>
+        <target state="translated">Decir '%@'</target>
+        <note>Detail text for specifying text to be spoken</note>
+      </trans-unit>
+      <trans-unit id="Speak Text" xml:space="preserve">
+        <source>Speak Text</source>
+        <target state="translated">Pronunciar texto</target>
+        <note>Row title for triggering spoken text</note>
+      </trans-unit>
+      <trans-unit id="Speech Voice" xml:space="preserve">
+        <source>Speech Voice</source>
+        <target state="translated">Voz de habla</target>
+        <note>Row title for selecting a speech voice</note>
+      </trans-unit>
+      <trans-unit id="Start" xml:space="preserve">
+        <source>Start</source>
+        <target state="translated">Iniciar</target>
+        <note>Button text to start the timer</note>
+      </trans-unit>
+      <trans-unit id="Start the Countdown" xml:space="preserve">
+        <source>Start the Countdown</source>
+        <target state="translated">Iniciar la cuenta regresiva</target>
+        <note>Accessibility label for the start countdown button</note>
+      </trans-unit>
+      <trans-unit id="Stop Playing" xml:space="preserve">
+        <source>Stop Playing</source>
+        <target state="translated">Detener reproducción</target>
+        <note>Detail text for stopping music playback
+Row title for stopping audio playback</note>
+      </trans-unit>
+      <trans-unit id="Tap 'Back'" xml:space="preserve">
+        <source>Tap 'Back'</source>
+        <target state="translated">Toca 'Atrás'</target>
+        <note>Tutorial step 4 instruction</note>
+      </trans-unit>
+      <trans-unit id="Tap 'Back' once more" xml:space="preserve">
+        <source>Tap 'Back' once more</source>
+        <target state="translated">Toca 'Atrás' una vez más</target>
+        <note>Tutorial step 5 instruction</note>
+      </trans-unit>
+      <trans-unit id="Tap 'Back' to hop back to the previous menu" xml:space="preserve">
+        <source>Tap 'Back' to hop back to the previous menu</source>
+        <target state="translated">Toca 'Atrás' para volver al menú anterior</target>
+        <note>Tutorial step 13 instruction</note>
+      </trans-unit>
+      <trans-unit id="Tap + to add another timer to our sequence. Let's keep the momentum going!" xml:space="preserve">
+        <source>Tap + to add another timer to our sequence. Let's keep the momentum going!</source>
+        <target state="translated">Pulsa + para añadir otro temporizador a nuestra secuencia. ¡Mantengamos el impulso!</target>
+        <note>Tutorial step 6 instruction</note>
+      </trans-unit>
+      <trans-unit id="Tap to Add Template Title" xml:space="preserve">
+        <source>Tap to Add Template Title</source>
+        <target state="translated">Toca para añadir título de la plantilla</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Template" xml:space="preserve">
+        <source>Template</source>
+        <target state="translated">Plantilla</target>
+        <note>Menu title for template commands</note>
+      </trans-unit>
+      <trans-unit id="Template: '%1$@'; Duration: %2$@; has %3$lld timers|==|plural.one" xml:space="preserve">
+        <source>Template: '%1$@'; Duration: %2$@; has %3$lld timer</source>
+        <target state="translated">Plantilla: '%1$@'; Duración: %2$@; tiene %3$lld temporizador</target>
+        <note>Accessibility label format for a template row</note>
+      </trans-unit>
+      <trans-unit id="Template: '%1$@'; Duration: %2$@; has %3$lld timers|==|plural.other" xml:space="preserve">
+        <source>Template: '%1$@'; Duration: %2$@; has %3$lld timers</source>
+        <target state="translated">Plantilla: '%1$@'; Duración: %2$@; tiene %3$lld temporizadores</target>
+        <note>Accessibility label format for a template row</note>
+      </trans-unit>
+      <trans-unit id="Text to Speak" xml:space="preserve">
+        <source>Text to Speak</source>
+        <target state="translated">Texto a pronunciar</target>
+        <note>Detail text for specifying the text to be spoken</note>
+      </trans-unit>
+      <trans-unit id="This feature requires access to your media library. Please enable access in Settings." xml:space="preserve">
+        <source>This feature requires access to your media library. Please enable access in Settings.</source>
+        <target state="translated">Esta función requiere acceso a tu biblioteca de medios. Por favor, habilita el acceso en Configuración.</target>
+        <note>Alert message prompting the user to enable access to the media library</note>
+      </trans-unit>
+      <trans-unit id="Timer %1$lld of %2$lld" xml:space="preserve">
+        <source>Timer %1$lld of %2$lld</source>
+        <target state="translated">Temporizador %1$lld de %2$lld</target>
+        <note>Accessibility label format for timer index</note>
+      </trans-unit>
+      <trans-unit id="Timer %lld|==|plural.one" xml:space="preserve">
+        <source>Timer %lld</source>
+        <target state="translated">Temporizador %lld</target>
+        <note>Default title for a new timer</note>
+      </trans-unit>
+      <trans-unit id="Timer %lld|==|plural.other" xml:space="preserve">
+        <source>Timer %lld</source>
+        <target state="translated">Temporizador %lld</target>
+        <note>Default title for a new timer</note>
+      </trans-unit>
+      <trans-unit id="Timer '%1$lld' of %2$lld" xml:space="preserve">
+        <source>Timer '%1$lld' of %2$lld</source>
+        <target state="translated">Temporizador '%1$lld' de %2$lld</target>
+        <note>Accessibility label format for timer index</note>
+      </trans-unit>
+      <trans-unit id="Timer '%@' has completed" xml:space="preserve">
+        <source>Timer '%@' has completed</source>
+        <target state="translated">El temporizador '%@' ha finalizado</target>
+        <note>Format string for voice over announcement when a timer completes</note>
+      </trans-unit>
+      <trans-unit id="Timer: %1$@, ends at %2$@ and remained duration is %3$@" xml:space="preserve">
+        <source>Timer: %1$@, ends at %2$@ and remained duration is %3$@</source>
+        <target state="translated">Temporizador: %1$@, termina a las %2$@ y la duración restante es %3$@</target>
+        <note>Accessibility label format for timer progress information</note>
+      </trans-unit>
+      <trans-unit id="Timer: '%1$@';  Timer Duration Remained: %2$@; " xml:space="preserve">
+        <source>Timer: '%1$@';  Timer Duration Remained: %2$@; </source>
+        <target state="translated">Temporizador: '%1$@'; Tiempo restante del temporizador: %2$@;</target>
+        <note>Accessibility label format for timer information</note>
+      </trans-unit>
+      <trans-unit id="Timers" xml:space="preserve">
+        <source>Timers</source>
+        <target state="translated">Temporizadores</target>
+        <note>Navigation bar title for the main screen</note>
+      </trans-unit>
+      <trans-unit id="Timix Community" xml:space="preserve">
+        <source>Timix Community</source>
+        <target state="translated">Comunidad Timix</target>
+        <note>Command text for opening the Timix community page</note>
+      </trans-unit>
+      <trans-unit id="Timix Watch App Not Installed" xml:space="preserve">
+        <source>Timix Watch App Not Installed</source>
+        <target state="translated">Aplicación Timix Watch no instalada</target>
+        <note>Alert title when the Timix Watch app is not installed</note>
+      </trans-unit>
+      <trans-unit id="Timix Watch Is Connected" xml:space="preserve">
+        <source>Timix Watch Is Connected</source>
+        <target state="translated">Timix Watch está conectado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Timix Watch app is not installed" xml:space="preserve">
+        <source>Timix Watch app is not installed</source>
+        <target state="translated">La aplicación Timix Watch no está instalada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To reset the timer and start fresh, give a swipe to the right" xml:space="preserve">
+        <source>To reset the timer and start fresh, give a swipe to the right</source>
+        <target state="translated">Para reiniciar el temporizador y empezar de nuevo, desliza a la derecha</target>
+        <note>Tutorial step 16 instruction (iOS)</note>
+      </trans-unit>
+      <trans-unit id="To reset the timer and start fresh, scroll to the right" xml:space="preserve">
+        <source>To reset the timer and start fresh, scroll to the right</source>
+        <target state="translated">Para restablecer el temporizador y empezar de nuevo, desliza hacia la derecha</target>
+        <note>Tutorial step 16 instruction (macOS)</note>
+      </trans-unit>
+      <trans-unit id="Toggle Controls Visibility" xml:space="preserve">
+        <source>Toggle Controls Visibility</source>
+        <target state="translated">Alternar la visibilidad de los controles</target>
+        <note>Help text for toggling the visibility of controls</note>
+      </trans-unit>
+      <trans-unit id="Torch Flashes" xml:space="preserve">
+        <source>Torch Flashes</source>
+        <target state="translated">Activación del flash de la linterna</target>
+        <note>Detail text for specifying the torch flash pattern</note>
+      </trans-unit>
+      <trans-unit id="Torch Flashes %lld times|==|plural.one" xml:space="preserve">
+        <source>Torch Flashes %lld time</source>
+        <target state="translated">El flash de la linterna se activa %lld vez</target>
+        <note>Detail text specifying the number of times the torch flashes</note>
+      </trans-unit>
+      <trans-unit id="Torch Flashes %lld times|==|plural.other" xml:space="preserve">
+        <source>Torch Flashes %lld times</source>
+        <target state="translated">El flash de la linterna se activa %lld veces</target>
+        <note>Detail text specifying the number of times the torch flashes</note>
+      </trans-unit>
+      <trans-unit id="Turn On Notifications!" xml:space="preserve">
+        <source>Turn On Notifications!</source>
+        <target state="translated">¡Activa las notificaciones!</target>
+        <note>Title for the view displayed when notification permission is denied</note>
+      </trans-unit>
+      <trans-unit id="Unknown Title" xml:space="preserve">
+        <source>Unknown Title</source>
+        <target state="translated">Título desconocido</target>
+        <note>Placeholder text for an unknown song title</note>
+      </trans-unit>
+      <trans-unit id="Unpin Template" xml:space="preserve">
+        <source>Unpin Template</source>
+        <target state="translated">Desanclar plantilla</target>
+        <note>Accessibility label for the unpin template button</note>
+      </trans-unit>
+      <trans-unit id="Untitled" xml:space="preserve">
+        <source>Untitled</source>
+        <target state="translated">Sin título</target>
+        <note>Placeholder text for the template title input field</note>
+      </trans-unit>
+      <trans-unit id="Update Notification Settings" xml:space="preserve">
+        <source>Update Notification Settings</source>
+        <target state="translated">Actualizar configuración de notificaciones</target>
+        <note>Title for the view when notification settings are partially disabled</note>
+      </trans-unit>
+      <trans-unit id="Vibrate the Phone" xml:space="preserve">
+        <source>Vibrate the Phone</source>
+        <target state="translated">Hacer vibrar el teléfono</target>
+        <note>Row title for triggering phone vibration</note>
+      </trans-unit>
+      <trans-unit id="Visible" xml:space="preserve">
+        <source>Visible</source>
+        <target state="translated">Visibles</target>
+        <note>Text indicating that controls are visible</note>
+      </trans-unit>
+      <trans-unit id="Watch Connection Failed" xml:space="preserve">
+        <source>Watch Connection Failed</source>
+        <target state="translated">Error de conexión con el reloj</target>
+        <note>Alert title for a failed watch connection</note>
+      </trans-unit>
+      <trans-unit id="We’ll set it to vibrate three times" xml:space="preserve">
+        <source>We’ll set it to vibrate three times</source>
+        <target state="translated">Lo configuraremos para que vibre tres veces</target>
+        <note>Tutorial step 12 instruction</note>
+      </trans-unit>
+      <trans-unit id="When Timer Ends" xml:space="preserve">
+        <source>When Timer Ends</source>
+        <target state="translated">Al finalizar el temporizador</target>
+        <note>Section title for triggers activated when a timer ends</note>
+      </trans-unit>
+      <trans-unit id="When Timer Starts" xml:space="preserve">
+        <source>When Timer Starts</source>
+        <target state="translated">Al iniciar el temporizador</target>
+        <note>Section title for triggers activated when a timer starts</note>
+      </trans-unit>
+      <trans-unit id="Write a Review" xml:space="preserve">
+        <source>Write a Review</source>
+        <target state="translated">Escribir una reseña</target>
+        <note>Button title for writing a review
+Command text for writing a review</note>
+      </trans-unit>
+      <trans-unit id="You may close the window" xml:space="preserve">
+        <source>You may close the window</source>
+        <target state="translated">Puedes cerrar la ventana</target>
+        <note>Message indicating the window can be closed when no countdowns are active</note>
+      </trans-unit>
+      <trans-unit id="Your Sounds" xml:space="preserve">
+        <source>Your Sounds</source>
+        <target state="translated">Tus Sonidos</target>
+        <note>Section title for the user's sounds</note>
+      </trans-unit>
+      <trans-unit id="Your friends and family might find it useful too." xml:space="preserve">
+        <source>Your friends and family might find it useful too.</source>
+        <target state="translated">Tus amigos y familiares también podrían encontrarlo útil.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your notification settings might be limiting how you're alerted. Please consider updating the following to ensure you don't miss important alerts:" xml:space="preserve">
+        <source>Your notification settings might be limiting how you're alerted. Please consider updating the following to ensure you don't miss important alerts:</source>
+        <target state="translated">Tus configuraciones de notificaciones podrían estar limitando cómo se te alerta. Considera actualizar lo siguiente para asegurarte de no perderte alertas importantes:</target>
+        <note>Message informing the user of limited notification settings</note>
+      </trans-unit>
+      <trans-unit id="and Repeats Triggers" xml:space="preserve">
+        <source>and Repeats Triggers</source>
+        <target state="translated">y Repite Disparadores</target>
+        <note>Detail text indicating that the confirmation alert repeats triggers</note>
+      </trans-unit>
+      <trans-unit id="generic.back" xml:space="preserve">
+        <source>Back</source>
+        <target state="translated">Atrás</target>
+        <note>Generic back button text</note>
+      </trans-unit>
+      <trans-unit id="generic.cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="translated">Cancelar</target>
+        <note>Generic cancel button text</note>
+      </trans-unit>
+      <trans-unit id="hours" xml:space="preserve">
+        <source>hours</source>
+        <target state="translated">horas</target>
+        <note>Column title for hours in the time picker</note>
+      </trans-unit>
+      <trans-unit id="min" xml:space="preserve">
+        <source>min</source>
+        <target state="translated">minutos</target>
+        <note>Column title for minutes in the time picker</note>
+      </trans-unit>
+      <trans-unit id="sec" xml:space="preserve">
+        <source>sec</source>
+        <target state="translated">segundos</target>
+        <note>Column title for seconds in the time picker</note>
+      </trans-unit>
+      <trans-unit id="timerForm.cancelButton" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="translated">Cancelar</target>
+        <note>Button title for cancelling the timer form</note>
+      </trans-unit>
+      <trans-unit id="✨Enjoy New Experience" xml:space="preserve">
+        <source>✨Enjoy New Experience</source>
+        <target state="translated">✨ Disfruta de una nueva experiencia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🌱 Contribute to Timix" xml:space="preserve">
+        <source>🌱 Contribute to Timix</source>
+        <target state="translated">🌱 Contribuir a Timix</target>
+        <note>Section title for contributing to Timix</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerCore/Sources/CameraTimerRecognizer/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Go to Settings" xml:space="preserve">
+        <source>Go to Settings</source>
+        <target state="translated">Ir a Configuración</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go to Settings and allow Timix to access your camera." xml:space="preserve">
+        <source>Go to Settings and allow Timix to access your camera.</source>
+        <target state="translated">Ve a Configuración y permite que Timix acceda a tu cámara.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Camera Access" xml:space="preserve">
+        <source>No Camera Access</source>
+        <target state="translated">Sin acceso a la cámara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Timers Detected" xml:space="preserve">
+        <source>No Timers Detected</source>
+        <target state="translated">No se detectaron temporizadores</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerCore/Sources/HealthKitClient/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="American Football" xml:space="preserve">
+        <source>American Football</source>
+        <target state="translated">Fútbol americano</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Archery" xml:space="preserve">
+        <source>Archery</source>
+        <target state="translated">Tiro con arco</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Australian Football" xml:space="preserve">
+        <source>Australian Football</source>
+        <target state="translated">Fútbol australiano</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Badminton" xml:space="preserve">
+        <source>Badminton</source>
+        <target state="translated">Bádminton</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Barre" xml:space="preserve">
+        <source>Barre</source>
+        <target state="translated">Barre</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Baseball" xml:space="preserve">
+        <source>Baseball</source>
+        <target state="translated">Béisbol</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Basketball" xml:space="preserve">
+        <source>Basketball</source>
+        <target state="translated">Baloncesto</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Bowling" xml:space="preserve">
+        <source>Bowling</source>
+        <target state="translated">Bolos</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Boxing" xml:space="preserve">
+        <source>Boxing</source>
+        <target state="translated">Boxeo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Cardio Dance" xml:space="preserve">
+        <source>Cardio Dance</source>
+        <target state="translated">Danza cardiovascular</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Climbing" xml:space="preserve">
+        <source>Climbing</source>
+        <target state="translated">Escalada</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Cooldown" xml:space="preserve">
+        <source>Cooldown</source>
+        <target state="translated">Enfriamiento</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Core Training" xml:space="preserve">
+        <source>Core Training</source>
+        <target state="translated">Entrenamiento de core</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Cricket" xml:space="preserve">
+        <source>Cricket</source>
+        <target state="translated">Críquet</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Cross Country Skiing" xml:space="preserve">
+        <source>Cross Country Skiing</source>
+        <target state="translated">Esquí de fondo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Cross Training" xml:space="preserve">
+        <source>Cross Training</source>
+        <target state="translated">Entrenamiento cruzado</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Curling" xml:space="preserve">
+        <source>Curling</source>
+        <target state="translated">Curling</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Disc Sports" xml:space="preserve">
+        <source>Disc Sports</source>
+        <target state="translated">Juegos con disco volador</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Downhill Skiing" xml:space="preserve">
+        <source>Downhill Skiing</source>
+        <target state="translated">Esquí alpino</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Elliptical" xml:space="preserve">
+        <source>Elliptical</source>
+        <target state="translated">Elíptica</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="End Workout" xml:space="preserve">
+        <source>End Workout</source>
+        <target state="translated">Finalizar entrenamiento</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Equestrian Sports" xml:space="preserve">
+        <source>Equestrian Sports</source>
+        <target state="translated">Deportes ecuestres</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Fencing" xml:space="preserve">
+        <source>Fencing</source>
+        <target state="translated">Esgrima</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Fishing" xml:space="preserve">
+        <source>Fishing</source>
+        <target state="translated">Pesca</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Fitness Gaming" xml:space="preserve">
+        <source>Fitness Gaming</source>
+        <target state="translated">Juegos de fitness</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Flexibility" xml:space="preserve">
+        <source>Flexibility</source>
+        <target state="translated">Flexibilidad</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Functional Strength Training" xml:space="preserve">
+        <source>Functional Strength Training</source>
+        <target state="translated">Entrenamiento de fuerza funcional</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Golf" xml:space="preserve">
+        <source>Golf</source>
+        <target state="translated">Golf</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Gymnastics" xml:space="preserve">
+        <source>Gymnastics</source>
+        <target state="translated">Gimnasia</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Hand Cycling" xml:space="preserve">
+        <source>Hand Cycling</source>
+        <target state="translated">Bicicleta de mano</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Handball" xml:space="preserve">
+        <source>Handball</source>
+        <target state="translated">Balonmano</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="High Intensity Interval Training" xml:space="preserve">
+        <source>High Intensity Interval Training</source>
+        <target state="translated">Entrenamiento de intervalos de alta intensidad</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Hiking" xml:space="preserve">
+        <source>Hiking</source>
+        <target state="translated">Senderismo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Hockey" xml:space="preserve">
+        <source>Hockey</source>
+        <target state="translated">Hockey</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Hunting" xml:space="preserve">
+        <source>Hunting</source>
+        <target state="translated">Caza</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Jump Rope" xml:space="preserve">
+        <source>Jump Rope</source>
+        <target state="translated">Saltos con cuerda</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Kickboxing" xml:space="preserve">
+        <source>Kickboxing</source>
+        <target state="translated">Kickboxing</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Lacrosse" xml:space="preserve">
+        <source>Lacrosse</source>
+        <target state="translated">Lacrosse</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Martial Arts" xml:space="preserve">
+        <source>Martial Arts</source>
+        <target state="translated">Artes marciales</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Mind and Body" xml:space="preserve">
+        <source>Mind and Body</source>
+        <target state="translated">Mente y cuerpo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Mixed Cardio" xml:space="preserve">
+        <source>Mixed Cardio</source>
+        <target state="translated">Cardio mixto</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Other" xml:space="preserve">
+        <source>Other</source>
+        <target state="translated">Otro</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Paddle Sports" xml:space="preserve">
+        <source>Paddle Sports</source>
+        <target state="translated">Deportes acuáticos con remo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Pickleball" xml:space="preserve">
+        <source>Pickleball</source>
+        <target state="translated">Pickleball</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Pilates" xml:space="preserve">
+        <source>Pilates</source>
+        <target state="translated">Pilates</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Play" xml:space="preserve">
+        <source>Play</source>
+        <target state="translated">Jugar</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Preparation and Recovery" xml:space="preserve">
+        <source>Preparation and Recovery</source>
+        <target state="translated">Preparación y recuperación</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Racquetball" xml:space="preserve">
+        <source>Racquetball</source>
+        <target state="translated">Raquetbol</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Rowing" xml:space="preserve">
+        <source>Rowing</source>
+        <target state="translated">Remo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Rugby" xml:space="preserve">
+        <source>Rugby</source>
+        <target state="translated">Rugby</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Running" xml:space="preserve">
+        <source>Running</source>
+        <target state="translated">Correr</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Sailing" xml:space="preserve">
+        <source>Sailing</source>
+        <target state="translated">Vela</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Skating Sports" xml:space="preserve">
+        <source>Skating Sports</source>
+        <target state="translated">Deportes sobre patines</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Snow Sports" xml:space="preserve">
+        <source>Snow Sports</source>
+        <target state="translated">Deportes de invierno</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Snowboarding" xml:space="preserve">
+        <source>Snowboarding</source>
+        <target state="translated">Snowboarding</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Soccer" xml:space="preserve">
+        <source>Soccer</source>
+        <target state="translated">Fútbol</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Social Dance" xml:space="preserve">
+        <source>Social Dance</source>
+        <target state="translated">Bailes sociales</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Softball" xml:space="preserve">
+        <source>Softball</source>
+        <target state="translated">Softball</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Squash" xml:space="preserve">
+        <source>Squash</source>
+        <target state="translated">Squash</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Stair Climbing" xml:space="preserve">
+        <source>Stair Climbing</source>
+        <target state="translated">Subir escaleras</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Stairs" xml:space="preserve">
+        <source>Stairs</source>
+        <target state="translated">Escalera</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Step Training" xml:space="preserve">
+        <source>Step Training</source>
+        <target state="translated">Entrenamiento de step</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Surfing Sports" xml:space="preserve">
+        <source>Surfing Sports</source>
+        <target state="translated">Surf</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Swim Bike Run" xml:space="preserve">
+        <source>Swim Bike Run</source>
+        <target state="translated">Natación, ciclismo, carrera</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Swimming" xml:space="preserve">
+        <source>Swimming</source>
+        <target state="translated">Natación</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Table Tennis" xml:space="preserve">
+        <source>Table Tennis</source>
+        <target state="translated">Tenis de mesa</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Tai Chi" xml:space="preserve">
+        <source>Tai Chi</source>
+        <target state="translated">Tai Chi</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Tennis" xml:space="preserve">
+        <source>Tennis</source>
+        <target state="translated">Tenis</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Track and Field" xml:space="preserve">
+        <source>Track and Field</source>
+        <target state="translated">Atletismo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Traditional Strength Training" xml:space="preserve">
+        <source>Traditional Strength Training</source>
+        <target state="translated">Entrenamiento tradicional de fuerza</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Transition" xml:space="preserve">
+        <source>Transition</source>
+        <target state="translated">Transición</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Underwater Diving" xml:space="preserve">
+        <source>Underwater Diving</source>
+        <target state="translated">Buceo</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Volleyball" xml:space="preserve">
+        <source>Volleyball</source>
+        <target state="translated">Voleibol</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Walking" xml:space="preserve">
+        <source>Walking</source>
+        <target state="translated">Caminata</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Water Fitness" xml:space="preserve">
+        <source>Water Fitness</source>
+        <target state="translated">Fitness acuático</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Water Polo" xml:space="preserve">
+        <source>Water Polo</source>
+        <target state="translated">Polo acuático</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Water Sports" xml:space="preserve">
+        <source>Water Sports</source>
+        <target state="translated">Deportes acuáticos</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Wheelchair Run Pace" xml:space="preserve">
+        <source>Wheelchair Run Pace</source>
+        <target state="translated">Ritmo de carrera en silla de ruedas</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Wheelchair Walk Pace" xml:space="preserve">
+        <source>Wheelchair Walk Pace</source>
+        <target state="translated">Ritmo de caminata en silla de ruedas</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Wrestling" xml:space="preserve">
+        <source>Wrestling</source>
+        <target state="translated">Lucha</target>
+        <note>Activity name</note>
+      </trans-unit>
+      <trans-unit id="Yoga" xml:space="preserve">
+        <source>Yoga</source>
+        <target state="translated">Yoga</target>
+        <note>Activity name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerCore/Sources/TemplateFormWatchFeature/Resources/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="%lld" xml:space="preserve">
+        <source>%lld</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerCore/Sources/TemplateSyncedToggleFeature/Resources/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Sync" xml:space="preserve">
+        <source>Sync</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerLiveActivity/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Timix Live Activity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>TimixLiveActivityExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerLiveActivity/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel a Timer" xml:space="preserve">
+        <source>Cancel a Timer</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Countdown" xml:space="preserve">
+        <source>Countdown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Timix" xml:space="preserve">
+        <source>Open Timix</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Timix App" xml:space="preserve">
+        <source>Open Timix App</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Timix App in the control center." xml:space="preserve">
+        <source>Opens Timix App in the control center.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Resume or Pause a Timer" xml:space="preserve">
+        <source>Resume or Pause a Timer</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The timer will be cancelled." xml:space="preserve">
+        <source>The timer will be cancelled.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The timer will be put on pause or resumed." xml:space="preserve">
+        <source>The timer will be put on pause or resumed.</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerTutorial/BestTimerTutorial-InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>BestTimerTutorial</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerTutorial/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Hello, world!" xml:space="preserve">
+        <source>Hello, world!</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerWatch/AppShortcuts.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Start countdown using ${applicationName}" xml:space="preserve">
+        <source>
+          <mrk mtype="x-set" mid="0">Start countdown using ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="1">Start countdown with ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="2">Start ${template} with ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="3">Start ${template} using ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="4">Run ${template} using ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="5">Run ${template} with ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="6">Let's begin ${template} with ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="7">Begin ${template} with ${applicationName}</mrk>
+        </source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerWatch/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Timix Watch</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>TimixWatch</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>Allow Timix to run workouts</source>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>Allow Timix to update workouts</source>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerWatch/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="%@, starting now" xml:space="preserve">
+        <source>%@, starting now</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pinned" xml:space="preserve">
+        <source>Pinned</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Results" xml:space="preserve">
+        <source>Results</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start ${template} Timer" xml:space="preserve">
+        <source>Start ${template} Timer</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start a Countdown" xml:space="preserve">
+        <source>Start a Countdown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start a Timer" xml:space="preserve">
+        <source>Start a Timer</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Starts a Timer using a specified template." xml:space="preserve">
+        <source>Starts a Timer using a specified template.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Suggestions" xml:space="preserve">
+        <source>Suggestions</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Template" xml:space="preserve">
+        <source>Template</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerWatchExtension/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>BestTimerWatchExtension</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>TimixWatchExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="BestTimerWatchExtension/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Open App" xml:space="preserve">
+        <source>Open App</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This is the Timix App Complication." xml:space="preserve">
+        <source>This is the Timix App Complication.</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Adaptive App Icon" xml:space="preserve">
+        <source>Adaptive App Icon</source>
+        <target>Icono de aplicación adaptable</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Application Version" xml:space="preserve">
+        <source>Application Version</source>
+        <target>Versión de la Aplicación</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Data" xml:space="preserve">
+        <source>Data</source>
+        <target>Datos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable Onboarding" xml:space="preserve">
+        <source>Enable Onboarding</source>
+        <target>Activar Introducción</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable Running In Background" xml:space="preserve">
+        <source>Enable Running In Background</source>
+        <target>Permitir ejecución en segundo plano</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Information" xml:space="preserve">
+        <source>Information</source>
+        <target>Información</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove All Data" xml:space="preserve">
+        <source>Remove All Data</source>
+        <target>Eliminar todos los datos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows AI Tip in Search" xml:space="preserve">
+        <source>Shows AI Tip in Search</source>
+        <target>Muestra la sugerencia de TimixGPT</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

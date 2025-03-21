@@ -1,0 +1,794 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    " and Repeats Enabled Triggers" : {
+      "comment" : "Detail text indicating that the pause countdown repeats enabled triggers"
+    },
+    "- Banners: Currently disabled, so you won't see notifications from timers." : {
+      "comment" : "Explanation that banner notifications are disabled"
+    },
+    "- Critical Alerts: Disabled, which could mean missing vital warnings." : {
+      "comment" : "Explanation that critical alerts are disabled"
+    },
+    "- Sounds: Turned off, meaning you'll miss audible alerts." : {
+      "comment" : "Explanation that notification sounds are disabled"
+    },
+    "%1$@ of %2$lld" : {
+      "comment" : "Accessibility value format for the selected timer in the timeline"
+    },
+    "%1$lld timers; Duration: %2$@" : {
+      "comment" : "Accessibility label format for the countdown timeline bar"
+    },
+    "%lld Results" : {
+      "comment" : "Header text displaying the number of search results",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Result"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld Results"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld times" : {
+      "comment" : "Format string for specifying the number of times an action occurs",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld time"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld times"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "✨Enjoy New Experience" : {
+
+    },
+    "🌱 Contribute to Timix" : {
+      "comment" : "Section title for contributing to Timix"
+    },
+    "Access Denied" : {
+      "comment" : "Alert title for when access to Apple Music is denied"
+    },
+    "Activate the phone vibration by tapping here" : {
+      "comment" : "Tutorial step 11 instruction"
+    },
+    "Activity" : {
+      "comment" : "Detail text for workout activity"
+    },
+    "Add Timer" : {
+      "comment" : "Accessibility label for adding a timer to the timeline"
+    },
+    "Alert Message" : {
+      "comment" : "Detail text for specifying a confirmation alert message"
+    },
+    "All data has been removed." : {
+      "comment" : "Notification message indicating all data has been removed"
+    },
+    "All set? Start the timer by tapping the 'Start' button. The countdown begins!" : {
+      "comment" : "Tutorial step 14 instruction"
+    },
+    "And if it’s time to stop, a swift swipe to the left will do just that" : {
+      "comment" : "Tutorial step 17 instruction (iOS)"
+    },
+    "And if it’s time to stop, scrolling to the left will do just that" : {
+      "comment" : "Tutorial step 17 instruction (macOS)"
+    },
+    "and Repeats Triggers" : {
+      "comment" : "Detail text indicating that the confirmation alert repeats triggers"
+    },
+    "Ask TimixGPT" : {
+      "comment" : "Row text for asking TimixGPT"
+    },
+    "Assign a duration of 1 minute to this new timer—short and sweet" : {
+      "comment" : "Tutorial step 7 instruction"
+    },
+    "Begin Workout" : {
+      "comment" : "Row title for beginning a workout"
+    },
+    "Camera" : {
+      "comment" : "Button title for camera-based duration input"
+    },
+    "Can't access file '%@'. Save file to Files app and open file again." : {
+      "comment" : "Error message when a template file cannot be accessed"
+    },
+    "Can't import '%@'" : {
+      "comment" : "Notification message for a template import error"
+    },
+    "Choose a Voice" : {
+      "comment" : "Title for the voice picker"
+    },
+    "Choose to 'Stop Playing' music" : {
+      "comment" : "Tutorial step 3 instruction"
+    },
+    "Close" : {
+      "comment" : "Button text for closing the timer list"
+    },
+    "Color" : {
+      "comment" : "Row title for selecting a timer color"
+    },
+    "Copy" : {
+      "comment" : "Suffix appended to a template name when it is duplicated"
+    },
+    "Couldn't find activities for '%@'..." : {
+      "comment" : "Message displayed when no workout activities are found for the query"
+    },
+    "Countdown" : {
+      "comment" : "Menu title for countdown commands"
+    },
+    "Countdown: '%@'; " : {
+      "comment" : "Accessibility label format for countdown information"
+    },
+    "Countdown: %1$@, ends at %2$@ and remained duration is %3$@" : {
+      "comment" : "Accessibility label format for countdown progress information"
+    },
+    "Counting Direction" : {
+      "comment" : "Help text for switching the counting direction"
+    },
+    "Counting Down" : {
+      "comment" : "Button text indicating the timer counts downward"
+    },
+    "Counting Up" : {
+      "comment" : "Button text indicating the timer counts upward"
+    },
+    "Delete" : {
+      "comment" : "Button text for deleting a template"
+    },
+    "Delete '%@' template?" : {
+      "comment" : "Alert title format for confirming template deletion"
+    },
+    "Delete Timer" : {
+      "comment" : "Accessibility label for deleting a timer from the timeline"
+    },
+    "Double tap to edit timer" : {
+      "comment" : "Accessibility hint for editing a timer in the timeline bar"
+    },
+    "Double tap to switch between detail modes" : {
+      "comment" : "Accessibility hint for switching detail modes in the template form"
+    },
+    "Download More Voices..." : {
+      "comment" : "Command text for downloading additional voices"
+    },
+    "Download Timix app on App Store" : {
+      "comment" : "Subject text for sharing the Timix app"
+    },
+    "Duplicate" : {
+      "comment" : "Action sheet button text for duplicating a template on the Watch"
+    },
+    "Duplicate the Template" : {
+      "comment" : "Accessibility label for the duplicate template button"
+    },
+    "Duplicate Timer" : {
+      "comment" : "Accessibility label for duplicating a timer from the timeline"
+    },
+    "Duration" : {
+      "comment" : "Row title for timer duration in the Watch view"
+    },
+    "Duration: %1$@; %2$lld timers" : {
+      "comment" : "Format string for the template app entity subtitle, showing duration and timer count",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Duration: %1$@; %2$lld timer"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Duration: %1$@; %2$lld timers"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Edit" : {
+      "comment" : "Action sheet button text for editing a template on the Watch"
+    },
+    "Enable notifications to stay updated with timers and alerts. Don’t miss out on important reminders!" : {
+      "comment" : "Message encouraging the user to enable notifications"
+    },
+    "End Workout" : {
+      "comment" : "Row title for ending a workout"
+    },
+    "Enter a name for the template" : {
+      "comment" : "Alert title prompting the user to enter a template name"
+    },
+    "Erase All" : {
+      "comment" : "Button text to confirm data removal"
+    },
+    "Erase All Timix Data?" : {
+      "comment" : "Alert title for confirming data removal"
+    },
+    "Error: %@" : {
+      "comment" : "Notification title for a template import error"
+    },
+    "Ex. 🧘🏼‍♀️Yoga Routine" : {
+      "comment" : "Placeholder text for entering a template name"
+    },
+    "Find Templates" : {
+      "comment" : "Command text for searching templates"
+    },
+    "First up, let's set a trigger to activate right when your timer kicks off" : {
+      "comment" : "Tutorial step 1 instruction"
+    },
+    "Flash the Screen" : {
+      "comment" : "Row title for triggering a screen flash"
+    },
+    "Flash the Torch" : {
+      "comment" : "Row title for triggering a torch flash"
+    },
+    "Flip Counting Direction" : {
+      "comment" : "Command text for flipping the counting direction"
+    },
+    "generic.back" : {
+      "comment" : "Generic back button text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "generic.cancel" : {
+      "comment" : "Generic cancel button text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Gift Timix to a Friend" : {
+      "comment" : "Button title for gifting Timix to a friend"
+    },
+    "Give your template a unique title. Siri will learn it." : {
+
+    },
+    "Has Completed" : {
+      "comment" : "Accessibility value indicating the timer has completed"
+    },
+    "Here’s the link to download Timix, the Timer App I was telling you about!" : {
+      "comment" : "Message text with the download link for Timix"
+    },
+    "Hidden" : {
+      "comment" : "Text indicating that controls are hidden"
+    },
+    "hours" : {
+      "comment" : "Column title for hours in the time picker"
+    },
+    "Import" : {
+      "comment" : "Button text for importing timers"
+    },
+    "Import Audio File" : {
+      "comment" : "Button title for importing an audio file"
+    },
+    "Is Counting" : {
+      "comment" : "Accessibility value indicating the timer is counting"
+    },
+    "Is Paused" : {
+      "comment" : "Accessibility value indicating the timer is paused"
+    },
+    "Is Pinned" : {
+      "comment" : "Accessibility value indicating the template is pinned"
+    },
+    "Is Waiting To Be Resumed" : {
+      "comment" : "Accessibility value indicating the timer is waiting to be resumed"
+    },
+    "Jump to Next Timer" : {
+      "comment" : "Command text for navigating to the next timer"
+    },
+    "Jump to Previous Timer" : {
+      "comment" : "Command text for navigating to the previous timer"
+    },
+    "Just hit the Camera button to move any timer quickly and easy to Timix!" : {
+
+    },
+    "Label" : {
+      "comment" : "Row title for setting the timer's label"
+    },
+    "Last Timer" : {
+      "comment" : "Accessibility label for the last timer in a sequence"
+    },
+    "Learn more" : {
+      "comment" : "Button title for learning more about Timix"
+    },
+    "Learn More" : {
+      "comment" : "Command text for accessing additional information"
+    },
+    "Let’s set another trigger to spring into action when the timer starts" : {
+      "comment" : "Tutorial step 10 instruction"
+    },
+    "Magic tap to pause or resume a timer" : {
+      "comment" : "Accessibility hint for the countdown row"
+    },
+    "Magic tap to start a timer" : {
+      "comment" : "Accessibility hint for starting a timer from a template row"
+    },
+    "Manual" : {
+      "comment" : "Button title for manual duration input"
+    },
+    "min" : {
+      "comment" : "Column title for minutes in the time picker"
+    },
+    "MIN" : {
+      "comment" : "Abbreviation for minutes in the time interval presets"
+    },
+    "Music" : {
+      "comment" : "Section title for music options"
+    },
+    "Need a pause? Tap the 'Pause' button" : {
+      "comment" : "Tutorial step 15 instruction"
+    },
+    "New" : {
+      "comment" : "Command text for creating a new item"
+    },
+    "New template" : {
+      "comment" : "Accessibility label for the new template button"
+    },
+    "No Active Timers" : {
+      "comment" : "Text displayed when there are no active timers on the Watch"
+    },
+    "No Countdowns Here" : {
+      "comment" : "Window title when there are no active countdowns"
+    },
+    "No results for '%@'" : {
+      "comment" : "Message displayed when no search results are found"
+    },
+    "No Timers" : {
+      "comment" : "Text displayed when there are no timers on the Watch"
+    },
+    "None" : {
+      "comment" : "Detail text indicating that no action is selected"
+    },
+    "Notification Message" : {
+      "comment" : "Detail text for specifying a notification message"
+    },
+    "Now, tap here to select a sound that will play the moment the timer starts" : {
+      "comment" : "Tutorial step 2 instruction"
+    },
+    "Open in New Window" : {
+      "comment" : "Command text for opening the timer in a new window"
+    },
+    "Open New Main List Window" : {
+      "comment" : "Command text for opening a new main list window"
+    },
+    "Open Settings" : {
+      "comment" : "Button label for opening the app's settings in the Settings app"
+    },
+    "Open the Watch app, and under the My Watch tab, find Timer Watch app." : {
+      "comment" : "Banner message instructing the user to open the Watch app to locate the Timer Watch app"
+    },
+    "Open the Watch app, and under the My Watch tab, find Timix Watch app at the bottom of the list." : {
+
+    },
+    "Open Timix Settings" : {
+      "comment" : "Button title for opening the Timix settings"
+    },
+    "Pause" : {
+      "comment" : "Button text to pause the timer"
+    },
+    "Pause Countdown" : {
+      "comment" : "Detail text for the pause countdown trigger\nRow title for pausing a countdown"
+    },
+    "Pause the Countdown" : {
+      "comment" : "Accessibility label for the pause countdown button"
+    },
+    "Pause/Resume" : {
+      "comment" : "Command text for pausing or resuming a timer"
+    },
+    "Perform %lld Actions" : {
+      "comment" : "Detail text showing the number of actions to be performed"
+    },
+    "Phone Vibrates" : {
+      "comment" : "Detail text for specifying the phone vibration pattern"
+    },
+    "Phone Vibrates %lld times" : {
+      "comment" : "Detail text specifying the number of times the phone vibrates",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Phone Vibrates %lld time"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Phone Vibrates %lld times"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Pick a Color" : {
+      "comment" : "Title for the color picker on the Watch"
+    },
+    "Pick a Song" : {
+      "comment" : "Row title for selecting a song from the music library"
+    },
+    "Pick an Activity" : {
+      "comment" : "Title for the workout activity picker"
+    },
+    "Pick an Audio" : {
+      "comment" : "Title for the audio trigger picker"
+    },
+    "Pin Frequently Used Template" : {
+
+    },
+    "Pin Template" : {
+      "comment" : "Accessibility label for the pin template button"
+    },
+    "Pin/Unpin" : {
+      "comment" : "Command text for toggling the pinned state"
+    },
+    "Pinned" : {
+      "comment" : "Section title for pinned templates"
+    },
+    "Pinned templates will appear at the top of your list, allowing quick access." : {
+
+    },
+    "Play '%@'" : {
+      "comment" : "Detail text for specifying a song to play"
+    },
+    "Please install Timix Watch app and press Retry" : {
+      "comment" : "Alert message prompting the user to install the Timix Watch app"
+    },
+    "Post a Notification" : {
+      "comment" : "Row title for posting a notification"
+    },
+    "Post Notification '%@'" : {
+      "comment" : "Detail text for configuring a notification"
+    },
+    "Presets" : {
+      "comment" : "Header text for the time interval presets section"
+    },
+    "Preview Voice" : {
+      "comment" : "Accessibility label for the voice preview button"
+    },
+    "Ready to say goodbye to a timer? Tap here to remove it from the sequence" : {
+      "comment" : "Tutorial step 9 instruction"
+    },
+    "Recents" : {
+      "comment" : "Section title for recently used templates"
+    },
+    "Remove the Template" : {
+      "comment" : "Accessibility label for the remove template button"
+    },
+    "Repeats Other Triggers" : {
+      "comment" : "Detail text indicating that the countdown trigger repeats"
+    },
+    "Reset" : {
+      "comment" : "Command text for resetting a timer"
+    },
+    "Reset the Countdown" : {
+      "comment" : "Accessibility label for the reset countdown button"
+    },
+    "Resume" : {
+      "comment" : "Button text to resume the timer"
+    },
+    "Resume the Countdown" : {
+      "comment" : "Accessibility label for the resume countdown button"
+    },
+    "Retry" : {
+      "comment" : "Text for the Retry button"
+    },
+    "Save" : {
+      "comment" : "Button text for saving the current template"
+    },
+    "Scan Timers" : {
+
+    },
+    "Screen Flashes" : {
+      "comment" : "Detail text for specifying the screen flash pattern"
+    },
+    "Screen Flashes %lld times" : {
+      "comment" : "Detail text specifying the number of times the screen flashes",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Screen Flashes %lld time"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Screen Flashes %lld times"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Search activities..." : {
+      "comment" : "Search prompt for the workout activity picker"
+    },
+    "Search templates and timers..." : {
+      "comment" : "Placeholder text for the search bar"
+    },
+    "sec" : {
+      "comment" : "Column title for seconds in the time picker"
+    },
+    "SEC" : {
+      "comment" : "Abbreviation for seconds in the time interval presets"
+    },
+    "Select another timer from your sequence to tweak or remove" : {
+      "comment" : "Tutorial step 8 instruction"
+    },
+    "Set As Default" : {
+      "comment" : "Button text to set a trigger as default"
+    },
+    "Settings" : {
+      "comment" : "Button title for opening settings\nButton title for opening the Settings app"
+    },
+    "Share \"%@\" template" : {
+
+    },
+    "Share Template" : {
+      "comment" : "Accessibility label for the share template button"
+    },
+    "Show Confirmation Alert" : {
+      "comment" : "Row title for displaying a confirmation alert"
+    },
+    "Show Confirmation Alert '%@'" : {
+      "comment" : "Detail text for configuring a confirmation alert"
+    },
+    "Skip" : {
+      "comment" : "Button text to skip the tutorial"
+    },
+    "Sound" : {
+      "comment" : "Section title for sound options"
+    },
+    "Speak" : {
+      "comment" : "Section title for speak options"
+    },
+    "Speak '%@'" : {
+      "comment" : "Detail text for specifying text to be spoken"
+    },
+    "Speak Text" : {
+      "comment" : "Row title for triggering spoken text"
+    },
+    "Speech Voice" : {
+      "comment" : "Row title for selecting a speech voice"
+    },
+    "Start" : {
+      "comment" : "Button text to start the timer"
+    },
+    "Start the Countdown" : {
+      "comment" : "Accessibility label for the start countdown button"
+    },
+    "Stop Playing" : {
+      "comment" : "Detail text for stopping music playback\nRow title for stopping audio playback"
+    },
+    "Tap 'Back'" : {
+      "comment" : "Tutorial step 4 instruction"
+    },
+    "Tap 'Back' once more" : {
+      "comment" : "Tutorial step 5 instruction"
+    },
+    "Tap 'Back' to hop back to the previous menu" : {
+      "comment" : "Tutorial step 13 instruction"
+    },
+    "Tap + to add another timer to our sequence. Let's keep the momentum going!" : {
+      "comment" : "Tutorial step 6 instruction"
+    },
+    "Tap to Add Template Title" : {
+
+    },
+    "Template" : {
+      "comment" : "Menu title for template commands"
+    },
+    "Template: '%1$@'; Duration: %2$@; has %3$lld timers" : {
+      "comment" : "Accessibility label format for a template row",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Template: '%1$@'; Duration: %2$@; has %3$lld timer"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Template: '%1$@'; Duration: %2$@; has %3$lld timers"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Text to Speak" : {
+      "comment" : "Detail text for specifying the text to be spoken"
+    },
+    "This feature requires access to your media library. Please enable access in Settings." : {
+      "comment" : "Alert message prompting the user to enable access to the media library"
+    },
+    "Timer '%@' has completed" : {
+      "comment" : "Format string for voice over announcement when a timer completes"
+    },
+    "Timer '%1$lld' of %2$lld" : {
+      "comment" : "Accessibility label format for timer index"
+    },
+    "Timer %1$lld of %2$lld" : {
+      "comment" : "Accessibility label format for timer index"
+    },
+    "Timer %lld" : {
+      "comment" : "Default title for a new timer"
+    },
+    "Timer: '%1$@';  Timer Duration Remained: %2$@; " : {
+      "comment" : "Accessibility label format for timer information"
+    },
+    "Timer: %1$@, ends at %2$@ and remained duration is %3$@" : {
+      "comment" : "Accessibility label format for timer progress information"
+    },
+    "timerForm.cancelButton" : {
+      "comment" : "Button title for cancelling the timer form",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Timers" : {
+      "comment" : "Navigation bar title for the main screen"
+    },
+    "Timix Community" : {
+      "comment" : "Command text for opening the Timix community page"
+    },
+    "Timix Watch app is not installed" : {
+
+    },
+    "Timix Watch App Not Installed" : {
+      "comment" : "Alert title when the Timix Watch app is not installed"
+    },
+    "Timix Watch Is Connected" : {
+
+    },
+    "To reset the timer and start fresh, give a swipe to the right" : {
+      "comment" : "Tutorial step 16 instruction (iOS)"
+    },
+    "To reset the timer and start fresh, scroll to the right" : {
+      "comment" : "Tutorial step 16 instruction (macOS)"
+    },
+    "Toggle Controls Visibility" : {
+      "comment" : "Help text for toggling the visibility of controls"
+    },
+    "Torch Flashes" : {
+      "comment" : "Detail text for specifying the torch flash pattern"
+    },
+    "Torch Flashes %lld times" : {
+      "comment" : "Detail text specifying the number of times the torch flashes",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Torch Flashes %lld time"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Torch Flashes %lld times"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Turn On Notifications!" : {
+      "comment" : "Title for the view displayed when notification permission is denied"
+    },
+    "Unknown Title" : {
+      "comment" : "Placeholder text for an unknown song title"
+    },
+    "Unpin Template" : {
+      "comment" : "Accessibility label for the unpin template button"
+    },
+    "Untitled" : {
+      "comment" : "Placeholder text for the template title input field"
+    },
+    "Update Notification Settings" : {
+      "comment" : "Title for the view when notification settings are partially disabled"
+    },
+    "Vibrate the Phone" : {
+      "comment" : "Row title for triggering phone vibration"
+    },
+    "Visible" : {
+      "comment" : "Text indicating that controls are visible"
+    },
+    "Watch Connection Failed" : {
+      "comment" : "Alert title for a failed watch connection"
+    },
+    "We’ll set it to vibrate three times" : {
+      "comment" : "Tutorial step 12 instruction"
+    },
+    "When Timer Ends" : {
+      "comment" : "Section title for triggers activated when a timer ends"
+    },
+    "When Timer Starts" : {
+      "comment" : "Section title for triggers activated when a timer starts"
+    },
+    "Write a Review" : {
+      "comment" : "Button title for writing a review\nCommand text for writing a review"
+    },
+    "You may close the window" : {
+      "comment" : "Message indicating the window can be closed when no countdowns are active"
+    },
+    "Your friends and family might find it useful too." : {
+
+    },
+    "Your notification settings might be limiting how you're alerted. Please consider updating the following to ensure you don't miss important alerts:" : {
+      "comment" : "Message informing the user of limited notification settings"
+    },
+    "Your Sounds" : {
+      "comment" : "Section title for the user's sounds"
+    }
+  },
+  "version" : "1.0"
+}

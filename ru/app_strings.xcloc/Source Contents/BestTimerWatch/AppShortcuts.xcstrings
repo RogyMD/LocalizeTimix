@@ -1,0 +1,26 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Start countdown using ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Start countdown using ${applicationName}",
+              "Start countdown with ${applicationName}",
+              "Start ${template} with ${applicationName}",
+              "Start ${template} using ${applicationName}",
+              "Run ${template} using ${applicationName}",
+              "Run ${template} with ${applicationName}",
+              "Let's begin ${template} with ${applicationName}",
+              "Begin ${template} with ${applicationName}"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

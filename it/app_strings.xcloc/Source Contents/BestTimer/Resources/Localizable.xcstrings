@@ -1,0 +1,69 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@, starting now" : {
+
+    },
+    "Cancel a Timer" : {
+
+    },
+    "Countdown" : {
+
+    },
+    "Limited Functionality in Background" : {
+
+    },
+    "Main List" : {
+      "shouldTranslate" : false
+    },
+    "Only notifications work in the background; all other triggers are ignored.\nTip: Keep Timix open and dim your screen." : {
+
+    },
+    "Open Timix" : {
+
+    },
+    "Open Timix App" : {
+
+    },
+    "Opens Timix App in the control center." : {
+
+    },
+    "Pinned" : {
+
+    },
+    "Results" : {
+
+    },
+    "Resume or Pause a Timer" : {
+
+    },
+    "Start ${template} Timer" : {
+      "extractionState" : "manual"
+    },
+    "Start a Countdown" : {
+
+    },
+    "Start a Timer" : {
+
+    },
+    "Starts a Timer using a specified template." : {
+
+    },
+    "Suggestions" : {
+
+    },
+    "Template" : {
+
+    },
+    "The timer will be cancelled." : {
+
+    },
+    "The timer will be put on pause or resumed." : {
+
+    },
+    "Timix Controller" : {
+      "shouldTranslate" : false
+    }
+  },
+  "version" : "1.0"
+}

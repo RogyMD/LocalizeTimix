@@ -1,0 +1,249 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "American Football" : {
+      "comment" : "Activity name"
+    },
+    "Archery" : {
+      "comment" : "Activity name"
+    },
+    "Australian Football" : {
+      "comment" : "Activity name"
+    },
+    "Badminton" : {
+      "comment" : "Activity name"
+    },
+    "Barre" : {
+      "comment" : "Activity name"
+    },
+    "Baseball" : {
+      "comment" : "Activity name"
+    },
+    "Basketball" : {
+      "comment" : "Activity name"
+    },
+    "Bowling" : {
+      "comment" : "Activity name"
+    },
+    "Boxing" : {
+      "comment" : "Activity name"
+    },
+    "Cardio Dance" : {
+      "comment" : "Activity name"
+    },
+    "Climbing" : {
+      "comment" : "Activity name"
+    },
+    "Cooldown" : {
+      "comment" : "Activity name"
+    },
+    "Core Training" : {
+      "comment" : "Activity name"
+    },
+    "Cricket" : {
+      "comment" : "Activity name"
+    },
+    "Cross Country Skiing" : {
+      "comment" : "Activity name"
+    },
+    "Cross Training" : {
+      "comment" : "Activity name"
+    },
+    "Curling" : {
+      "comment" : "Activity name"
+    },
+    "Disc Sports" : {
+      "comment" : "Activity name"
+    },
+    "Downhill Skiing" : {
+      "comment" : "Activity name"
+    },
+    "Elliptical" : {
+      "comment" : "Activity name"
+    },
+    "End Workout" : {
+      "comment" : "Activity name"
+    },
+    "Equestrian Sports" : {
+      "comment" : "Activity name"
+    },
+    "Fencing" : {
+      "comment" : "Activity name"
+    },
+    "Fishing" : {
+      "comment" : "Activity name"
+    },
+    "Fitness Gaming" : {
+      "comment" : "Activity name"
+    },
+    "Flexibility" : {
+      "comment" : "Activity name"
+    },
+    "Functional Strength Training" : {
+      "comment" : "Activity name"
+    },
+    "Golf" : {
+      "comment" : "Activity name"
+    },
+    "Gymnastics" : {
+      "comment" : "Activity name"
+    },
+    "Hand Cycling" : {
+      "comment" : "Activity name"
+    },
+    "Handball" : {
+      "comment" : "Activity name"
+    },
+    "High Intensity Interval Training" : {
+      "comment" : "Activity name"
+    },
+    "Hiking" : {
+      "comment" : "Activity name"
+    },
+    "Hockey" : {
+      "comment" : "Activity name"
+    },
+    "Hunting" : {
+      "comment" : "Activity name"
+    },
+    "Jump Rope" : {
+      "comment" : "Activity name"
+    },
+    "Kickboxing" : {
+      "comment" : "Activity name"
+    },
+    "Lacrosse" : {
+      "comment" : "Activity name"
+    },
+    "Martial Arts" : {
+      "comment" : "Activity name"
+    },
+    "Mind and Body" : {
+      "comment" : "Activity name"
+    },
+    "Mixed Cardio" : {
+      "comment" : "Activity name"
+    },
+    "Other" : {
+      "comment" : "Activity name"
+    },
+    "Paddle Sports" : {
+      "comment" : "Activity name"
+    },
+    "Pickleball" : {
+      "comment" : "Activity name"
+    },
+    "Pilates" : {
+      "comment" : "Activity name"
+    },
+    "Play" : {
+      "comment" : "Activity name"
+    },
+    "Preparation and Recovery" : {
+      "comment" : "Activity name"
+    },
+    "Racquetball" : {
+      "comment" : "Activity name"
+    },
+    "Rowing" : {
+      "comment" : "Activity name"
+    },
+    "Rugby" : {
+      "comment" : "Activity name"
+    },
+    "Running" : {
+      "comment" : "Activity name"
+    },
+    "Sailing" : {
+      "comment" : "Activity name"
+    },
+    "Skating Sports" : {
+      "comment" : "Activity name"
+    },
+    "Snow Sports" : {
+      "comment" : "Activity name"
+    },
+    "Snowboarding" : {
+      "comment" : "Activity name"
+    },
+    "Soccer" : {
+      "comment" : "Activity name"
+    },
+    "Social Dance" : {
+      "comment" : "Activity name"
+    },
+    "Softball" : {
+      "comment" : "Activity name"
+    },
+    "Squash" : {
+      "comment" : "Activity name"
+    },
+    "Stair Climbing" : {
+      "comment" : "Activity name"
+    },
+    "Stairs" : {
+      "comment" : "Activity name"
+    },
+    "Step Training" : {
+      "comment" : "Activity name"
+    },
+    "Surfing Sports" : {
+      "comment" : "Activity name"
+    },
+    "Swim Bike Run" : {
+      "comment" : "Activity name"
+    },
+    "Swimming" : {
+      "comment" : "Activity name"
+    },
+    "Table Tennis" : {
+      "comment" : "Activity name"
+    },
+    "Tai Chi" : {
+      "comment" : "Activity name"
+    },
+    "Tennis" : {
+      "comment" : "Activity name"
+    },
+    "Track and Field" : {
+      "comment" : "Activity name"
+    },
+    "Traditional Strength Training" : {
+      "comment" : "Activity name"
+    },
+    "Transition" : {
+      "comment" : "Activity name"
+    },
+    "Underwater Diving" : {
+      "comment" : "Activity name"
+    },
+    "Volleyball" : {
+      "comment" : "Activity name"
+    },
+    "Walking" : {
+      "comment" : "Activity name"
+    },
+    "Water Fitness" : {
+      "comment" : "Activity name"
+    },
+    "Water Polo" : {
+      "comment" : "Activity name"
+    },
+    "Water Sports" : {
+      "comment" : "Activity name"
+    },
+    "Wheelchair Run Pace" : {
+      "comment" : "Activity name"
+    },
+    "Wheelchair Walk Pace" : {
+      "comment" : "Activity name"
+    },
+    "Wrestling" : {
+      "comment" : "Activity name"
+    },
+    "Yoga" : {
+      "comment" : "Activity name"
+    }
+  },
+  "version" : "1.0"
+}

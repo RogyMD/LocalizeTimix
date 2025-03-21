@@ -1,0 +1,33 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@, starting now" : {
+
+    },
+    "Pinned" : {
+
+    },
+    "Results" : {
+
+    },
+    "Start ${template} Timer" : {
+
+    },
+    "Start a Countdown" : {
+
+    },
+    "Start a Timer" : {
+
+    },
+    "Starts a Timer using a specified template." : {
+
+    },
+    "Suggestions" : {
+
+    },
+    "Template" : {
+
+    }
+  },
+  "version" : "1.0"
+}

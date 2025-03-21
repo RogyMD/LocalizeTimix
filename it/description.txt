@@ -1,4 +1,4 @@
-Transform the way you manage time with Timix, the ultimate cross-Apple platforms app designed to optimize your daily routine. Whether you’re working out, studying, cooking, or meditating, Timix offers powerful and customizable features across iPhone, Apple Watch, Mac, and iPad to help you stay on track and maximize productivity.
+Timix is a versatile tool to craft your daily routines. It empowers you to manage multiple tasks effortlessly with unlimited parallel and chained timers, paired with customizable triggers—be they audio, voice, or visual cues. Best of all, Timix is completely free and respects your privacy by never tracking your personal data. Optimized as a cross-Apple platform solution, Timix delivers a seamless experience across iPhone, iPad, Apple Watch, and macOS, integrating with Siri and Shortcuts to start your routines touchless—whether it’s for a workout, studying, cooking, or anything you can think of.
 
 Key Features:
 - Timix is on All Platforms: Seamlessly use Timix on your iPhone, Apple Watch, Mac, and iPad, ensuring your productivity tools are always within reach.

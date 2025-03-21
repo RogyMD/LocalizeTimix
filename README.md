@@ -40,7 +40,7 @@ If you'd like to add a new language or update an existing translation, please fo
    Open Terminal and run:
    ```bash
    git clone https://github.com/YOUR_USERNAME/timix-translations.git
-```
+   ```
 
 Replace YOUR_USERNAME with your GitHub username.
 
@@ -97,6 +97,6 @@ I will review your Pull Request, and if everything looks good, I’ll merge it. 
 
 **Questions or Issues**
 
-If you encounter any issues or have questions about the translation process, please [open an issue](https://github.com/YOUR_USERNAME/timix-translations/issues) or contact me directly.
+If you encounter any issues or have questions about the translation process, please [open an issue](https://github.com/RogyMD/LocalizeTimix/issues) or contact me directly.
 
 Thank you for helping make Timix accessible to users worldwide!

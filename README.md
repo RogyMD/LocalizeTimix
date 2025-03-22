@@ -43,8 +43,6 @@ If you'd like to add a new language or update an existing translation, please fo
    git clone https://github.com/RogyMD/LocalizeTimix.git
    ```
 
-Replace YOUR_USERNAME with your GitHub username.
-
 3. **Create a New Branch**
 
 Create a branch with a name that includes the language identifier (for example, feature/de for German):

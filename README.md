@@ -40,7 +40,7 @@ If you'd like to add a new language or update an existing translation, please fo
 2. **Clone the Repository**  
    Open Terminal and run:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/timix-translations.git
+   git clone https://github.com/RogyMD/LocalizeTimix.git
    ```
 
 Replace YOUR_USERNAME with your GitHub username.

@@ -26,7 +26,7 @@ Below is the list of languages currently supported along with their translation 
 | Chinese (Simplified) | ❌      | zh-Hans |             |
 
 *✅: Translation Complete*  
-*❌ Translation In Progress*
+*❌ Translation In Missing*
 
 If you'd like to add a new language or update an existing translation, please follow the instructions below.
 
